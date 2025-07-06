@@ -1,0 +1,2101 @@
+sentence,predicted_emotion,confidence
+My soul is filled with love because of this movie.,joy,0.6829097270965576
+these changes doesn't affect me much.,neutral,0.8298839330673218
+I'm so happy about this moment!,joy,0.9821635484695435
+My soul is filled with love because of this opportunity.,joy,0.9351336359977722
+I can't stop smiling about my job!,joy,0.9707604646682739
+I'm completely shocked by this discovery!,surprise,0.9776905179023743
+My affection for this achievement grows every day.,joy,0.7845633029937744
+I'm completely enamored with this memory!,joy,0.6752503514289856
+What an unexpected this event!,surprise,0.9459967017173767
+I'm astonished by this failure!,surprise,0.973642885684967
+My blood is boiling because of this moment!,anger,0.9920124411582947
+I'm indifferent about this situation.,disgust,0.567813515663147
+I observed this conversation without much reaction.,disgust,0.918975830078125
+this challenge makes me feel ecstatic!,joy,0.981155276298523
+I observed this memory without much reaction.,disgust,0.660762369632721
+How dare they my job!,anger,0.9891932606697083
+my relationship happened as expected.,surprise,0.509903609752655
+This this gift is neither good nor bad.,disgust,0.809571385383606
+I can't stop smiling about the news!,joy,0.9824487566947937
+I'm paralyzed with fear about the future.,fear,0.9808835983276367
+this challenge is my worst nightmare!,disgust,0.44986453652381897
+this moment makes my heart flutter!,fear,0.6690599322319031
+This this opportunity makes me so angry I could scream!,anger,0.9888982176780701
+this conversation is making me feel so lonely.,sadness,0.977790117263794
+Tears won't stop falling because of the news.,sadness,0.8787837028503418
+I'm flabbergasted by this event!,surprise,0.8954308032989502
+This the future came out of nowhere!,surprise,0.8633666038513184
+I never expected this moment to happen!,surprise,0.9442083835601807
+the weather is making me feel so lonely.,sadness,0.9873215556144714
+Wow! I can't believe these changes happened!,surprise,0.9784080982208252
+I'm shaking with fear because of this realization.,fear,0.9945650100708008
+I adore this song with all my heart!,joy,0.9797267913818359
+I can't sleep because I'm so scared of this discovery.,fear,0.9903262257575989
+I'm shaking with fear because of the news.,fear,0.9942865967750549
+I'm thrilled beyond words about this moment!,joy,0.9565707445144653
+My blood is boiling because of this realization!,anger,0.9927518367767334
+The thought of this failure fills me with dread.,fear,0.9888527393341064
+this surprise is making me livid!,anger,0.8815586566925049
+This this event brings me so much happiness!,joy,0.9881044030189514
+I'm boiling with rage because of this gift.,anger,0.991507887840271
+This this situation has me feeling blue.,sadness,0.8918251395225525
+This the past has left me heartbroken.,sadness,0.9850708246231079
+I adore my relationship with all my heart!,joy,0.9665976166725159
+My jaw dropped when I saw this failure!,surprise,0.7169665098190308
+this challenge left me speechless!,surprise,0.5616510510444641
+I can't stop crying about my health.,sadness,0.9484135508537292
+My soul is filled with love because of the weather.,sadness,0.8453593254089355
+the future makes me feel ecstatic!,joy,0.9874388575553894
+There's nothing special about this book.,neutral,0.6643646955490112
+I can't handle the fear of this moment.,fear,0.9874717593193054
+This this realization came out of nowhere!,surprise,0.9130789637565613
+my friends is just normal.,neutral,0.5674495697021484
+this place has me seeing red!,surprise,0.8074256777763367
+Wow! I can't believe this situation happened!,surprise,0.9747670292854309
+I'm grieving over this situation.,sadness,0.9820047616958618
+I feel such deep love for this book.,joy,0.9569947123527527
+I'm terrified of these changes!,fear,0.9910210967063904
+this failure is the love of my life!,anger,0.48823365569114685
+This is the best day ever because of this situation!,joy,0.8146213889122009
+I'm so happy about this place!,joy,0.9816239476203918
+I'm boiling with rage because of my job.,anger,0.9925172328948975
+This this gift makes me so angry I could scream!,anger,0.9888495802879333
+I'm flabbergasted by this achievement!,surprise,0.9030851721763611
+I can't sleep because I'm so scared of this opportunity.,fear,0.9909018874168396
+My blood is boiling because of this gift!,anger,0.9919695258140564
+this failure makes my heart flutter!,fear,0.5392963290214539
+I'm grieving over this memory.,sadness,0.9777249097824097
+I feel such deep love for these changes.,joy,0.9315226078033447
+I'm terrified of this moment!,fear,0.991588294506073
+this discovery is making me feel so lonely.,sadness,0.9777666330337524
+this gift is my worst nightmare!,disgust,0.6469921469688416
+This is the best day ever because of these changes!,joy,0.7974242568016052
+My anxiety about this failure is overwhelming.,fear,0.9912699460983276
+I'm so happy about this place!,joy,0.9816239476203918
+I'm overwhelmed with sorrow about this gift.,sadness,0.6695584654808044
+My jaw dropped when I saw this place!,surprise,0.8633989691734314
+I'm boiling with rage because of these changes.,anger,0.9926303625106812
+Tears won't stop falling because of this challenge.,sadness,0.7364872097969055
+I'm astonished by this event!,surprise,0.9758979678153992
+My heart aches because of this place.,sadness,0.9553544521331787
+I'm completely shocked by this gift!,surprise,0.9812299013137817
+I can't sleep because I'm so scared of this moment.,fear,0.9912152290344238
+I'm in the depths of despair because of this decision.,fear,0.8829506039619446
+What an unexpected my job!,surprise,0.8970056176185608
+I'm paralyzed with fear about this song.,fear,0.9882474541664124
+I can't stop smiling about this place!,joy,0.9686564207077026
+I'm paralyzed with fear about this failure.,fear,0.9872310757637024
+I'm indifferent about this conversation.,disgust,0.6713384985923767
+I noticed the news today.,surprise,0.8069043755531311
+I'm paralyzed with fear about this realization.,fear,0.9899287819862366
+My blood is boiling because of this event!,anger,0.9917824268341064
+this realization makes me feel ecstatic!,joy,0.9849029779434204
+My love for these changes knows no bounds.,joy,0.7046207189559937
+I'm feeling so down about this situation...,sadness,0.9772914052009583
+I'm feeling so down about the weather...,sadness,0.9838491678237915
+My jaw dropped when I saw the news!,surprise,0.8473514318466187
+I'm paralyzed with fear about the future.,fear,0.9808835983276367
+I adore my health with all my heart!,joy,0.9732857942581177
+this memory is making me feel so lonely.,sadness,0.9770931005477905
+this movie took me completely by surprise!,surprise,0.9431942105293274
+I'm astonished by this event!,surprise,0.9758979678153992
+This my job is completely unacceptable!,anger,0.8674667477607727
+I feel absolutely delighted by this failure.,joy,0.9876556992530823
+I'm completely shocked by this place!,surprise,0.977940559387207
+I'm enraged by my finances!,anger,0.9859936237335205
+My anxiety about this conversation is overwhelming.,fear,0.9907166361808777
+I'm so mad I can't even think straight about this discovery!,anger,0.8266804218292236
+What a wonderful this failure we're experiencing!,joy,0.7141249179840088
+I feel such deep love for this failure.,sadness,0.915303647518158
+What a wonderful my family we're experiencing!,joy,0.9682701230049133
+My affection for this realization grows every day.,joy,0.6894698143005371
+I'm grieving over this book.,sadness,0.9856951832771301
+I'm boiling with rage because of this food.,anger,0.9916170239448547
+this movie left me speechless!,surprise,0.7023347020149231
+this movie took me completely by surprise!,surprise,0.9431942105293274
+I'm completely enamored with this place!,joy,0.9607498645782471
+I adore this food with all my heart!,joy,0.9855668544769287
+I noticed this surprise today.,surprise,0.9612070918083191
+I'm feeling so down about this movie...,sadness,0.9831594228744507
+I'm over the moon about my relationship!,surprise,0.5642743110656738
+I'm thinking about these changes.,neutral,0.8334382772445679
+My love for this realization knows no bounds.,joy,0.8751022219657898
+this situation makes me feel ecstatic!,joy,0.9856524467468262
+I'm over the moon about this conversation!,surprise,0.6781694889068604
+How dare they this achievement!,anger,0.981695294380188
+I'm so happy about this food!,joy,0.9834282994270325
+This this place has me feeling blue.,sadness,0.8289530873298645
+this challenge is the love of my life!,joy,0.8047505021095276
+this situation makes my heart flutter!,fear,0.4457642436027527
+this failure happened as expected.,sadness,0.34599095582962036
+How dare they this event!,anger,0.981819748878479
+I never expected this song to happen!,surprise,0.9495153427124023
+I can't handle the fear of my job.,fear,0.9907894730567932
+I'm enraged by my friends!,anger,0.9853371977806091
+My blood is boiling because of the weather!,anger,0.9925798773765564
+I'm boiling with rage because of this conversation.,anger,0.9917282462120056
+I observed this place without much reaction.,disgust,0.962831974029541
+My heart aches because of the news.,sadness,0.9590686559677124
+I'm in the depths of despair because of this situation.,fear,0.9138058423995972
+this moment is just normal.,neutral,0.8454440832138062
+I'm over the moon about this conversation!,surprise,0.6781694889068604
+this event doesn't affect me much.,neutral,0.6762285828590393
+My blood is boiling because of the future!,anger,0.9924644231796265
+this movie doesn't affect me much.,neutral,0.56978440284729
+I'm terrified of this surprise!,fear,0.9548635482788086
+this movie left me speechless!,surprise,0.7023347020149231
+I adore this movie with all my heart!,joy,0.9857893586158752
+I'm so happy about this memory!,joy,0.9834534525871277
+What a wonderful this gift we're experiencing!,joy,0.9248284101486206
+I'm so happy about this situation!,joy,0.9881827235221863
+I'm completely enamored with this failure!,anger,0.7088040113449097
+I'm in the depths of despair because of this place.,fear,0.8984875679016113
+I'm boiling with rage because of this conversation.,anger,0.9917282462120056
+My soul is filled with love because of the news.,sadness,0.9454946517944336
+This the news scares me to death!,fear,0.9759269952774048
+I'm over the moon about this situation!,surprise,0.4578346610069275
+My love for this gift knows no bounds.,joy,0.9539819955825806
+my relationship is making me livid!,anger,0.9904453754425049
+Wow! I can't believe this failure happened!,surprise,0.9765415191650391
+This this achievement has me feeling blue.,sadness,0.8826996088027954
+I observed the weather without much reaction.,disgust,0.6544298529624939
+Tears won't stop falling because of this opportunity.,sadness,0.796338677406311
+This my friends makes me so angry I could scream!,anger,0.982488751411438
+I'm indifferent about this book.,disgust,0.7385155558586121
+my friends is the love of my life!,joy,0.7342250347137451
+I can't stop crying about my health.,sadness,0.9484135508537292
+My heart races whenever I think about this challenge.,fear,0.5046579241752625
+This this achievement has left me heartbroken.,sadness,0.9879000186920166
+I'm absolutely furious about this decision!,anger,0.9822579026222229
+I'm overwhelmed with sorrow about my family.,surprise,0.4850233495235443
+I'm indifferent about this movie.,disgust,0.7249715924263
+This this song is quite ordinary.,neutral,0.4080360233783722
+I'm grieving over these changes.,sadness,0.9781067967414856
+this situation is the love of my life!,surprise,0.3706018328666687
+this challenge makes my heart flutter!,fear,0.695650041103363
+this discovery is making me livid!,anger,0.9837204217910767
+I adore the past with all my heart!,joy,0.965824544429779
+This this conversation is completely unacceptable!,anger,0.6327894926071167
+I adore this memory with all my heart!,joy,0.9783015251159668
+I'm in the depths of despair because of this conversation.,fear,0.9102312922477722
+I'm absolutely furious about this book!,anger,0.9831432700157166
+I'm flabbergasted by this situation!,surprise,0.94759601354599
+I'm grieving over this realization.,sadness,0.9792987108230591
+This my finances makes me so angry I could scream!,anger,0.9855244755744934
+I'm terrified of the past!,fear,0.9912341237068176
+This the weather is quite ordinary.,neutral,0.5941120386123657
+Wow! I can't believe the future happened!,surprise,0.9783710241317749
+this moment took me completely by surprise!,surprise,0.9576085805892944
+I'm shaking with fear because of my job.,fear,0.9949801564216614
+I'm paralyzed with fear about this realization.,fear,0.9899287819862366
+the past took me completely by surprise!,surprise,0.9586185216903687
+I'm indifferent about this food.,disgust,0.7653436064720154
+I can't stop crying about this surprise.,surprise,0.9635882377624512
+I observed this challenge without much reaction.,disgust,0.6885496973991394
+this discovery is just normal.,neutral,0.7667030096054077
+What an unexpected this memory!,surprise,0.9611039161682129
+How dare they my relationship!,anger,0.9876982569694519
+my finances makes my heart flutter!,fear,0.4581415355205536
+This this decision has me feeling blue.,sadness,0.9371539354324341
+This the future came out of nowhere!,surprise,0.8633666038513184
+This the past is quite ordinary.,neutral,0.835826575756073
+I can't stop crying about this song.,sadness,0.872151792049408
+What an unexpected this conversation!,surprise,0.939934492111206
+I'm head over heels for this song!,anger,0.38694101572036743
+I'm shaking with fear because of this conversation.,fear,0.9942451119422913
+I can't handle the fear of this movie.,fear,0.9895418882369995
+Tears won't stop falling because of my health.,sadness,0.8893855214118958
+What a wonderful my family we're experiencing!,joy,0.9682701230049133
+I'm so happy about this failure!,joy,0.976341962814331
+There's nothing special about this event.,neutral,0.7581803798675537
+I noticed these changes today.,surprise,0.6200371384620667
+I'm terrified of this achievement!,fear,0.9916530251502991
+I observed this place without much reaction.,disgust,0.962831974029541
+I observed this situation without much reaction.,disgust,0.8858863115310669
+I never expected this moment to happen!,surprise,0.9442083835601807
+Wow! I can't believe the weather happened!,surprise,0.9787089228630066
+This this realization has left me heartbroken.,sadness,0.9860039353370667
+My heart races whenever I think about my family.,fear,0.3022417724132538
+I can't sleep because I'm so scared of this memory.,fear,0.9897799491882324
+I feel absolutely delighted by this food.,joy,0.9904006123542786
+I'm thinking about this song.,joy,0.6051627993583679
+this failure makes my heart flutter!,fear,0.5392963290214539
+my relationship has me seeing red!,surprise,0.6259028315544128
+I'm enraged by this challenge!,anger,0.986743688583374
+My love for this discovery knows no bounds.,joy,0.9501075744628906
+I'm enraged by my friends!,anger,0.9853371977806091
+I'm indifferent about this opportunity.,disgust,0.5229787826538086
+I'm thinking about this challenge.,joy,0.7116986513137817
+this song happened as expected.,surprise,0.44915127754211426
+My affection for this decision grows every day.,joy,0.6335411667823792
+I'm feeling so down about my family...,sadness,0.9889342188835144
+My soul is filled with love because of this decision.,joy,0.5231196880340576
+There's nothing special about my family.,neutral,0.8197142481803894
+this surprise is making me feel so lonely.,sadness,0.8753332495689392
+My affection for my family grows every day.,joy,0.8862383961677551
+this realization is making me livid!,anger,0.9829732179641724
+this place has me seeing red!,surprise,0.8074256777763367
+I'm paralyzed with fear about my relationship.,fear,0.9868128895759583
+I'm in the depths of despair because of this place.,fear,0.8984875679016113
+I'm indifferent about these changes.,disgust,0.5313972234725952
+This this book has me feeling blue.,sadness,0.8751832842826843
+I'm shaking with fear because of the future.,fear,0.9943515062332153
+This this place has left me heartbroken.,sadness,0.9844313263893127
+I never expected this decision to happen!,surprise,0.9431445598602295
+This this failure came out of nowhere!,surprise,0.6902064681053162
+this gift has me seeing red!,joy,0.6328409910202026
+I'm completely shocked by this memory!,surprise,0.9771941900253296
+my health is my worst nightmare!,fear,0.863623321056366
+I feel absolutely delighted by this conversation.,joy,0.9893167018890381
+This this decision makes me so angry I could scream!,anger,0.987135112285614
+I can't stop crying about my job.,sadness,0.9656616449356079
+I'm absolutely furious about this discovery!,anger,0.9816147685050964
+I'm completely shocked by my family!,surprise,0.9782007932662964
+this event doesn't affect me much.,neutral,0.6762285828590393
+My heart is full of joy because of this event.,joy,0.9918143153190613
+My heart races whenever I think about this moment.,fear,0.47385790944099426
+My affection for this movie grows every day.,joy,0.753058135509491
+I'm thinking about the future.,fear,0.3662380576133728
+There's nothing special about this place.,neutral,0.6064022779464722
+My blood is boiling because of my job!,anger,0.9931911826133728
+this opportunity has me seeing red!,joy,0.4958839416503906
+The thought of this decision fills me with dread.,fear,0.9886541366577148
+I'm in the depths of despair because of my friends.,fear,0.884848952293396
+I'm terrified of my family!,fear,0.9936317801475525
+What a wonderful this surprise we're experiencing!,surprise,0.6616977453231812
+I never expected this movie to happen!,surprise,0.9381541013717651
+I'm overwhelmed with sorrow about this discovery.,sadness,0.42338061332702637
+this food makes my heart flutter!,surprise,0.4658178389072418
+I'm indifferent about my friends.,disgust,0.703375518321991
+My affection for this conversation grows every day.,joy,0.6196503639221191
+This my friends makes me so angry I could scream!,anger,0.982488751411438
+these changes left me speechless!,surprise,0.6536744236946106
+I feel such deep love for this surprise.,surprise,0.5570670962333679
+I'm flabbergasted by this challenge!,surprise,0.9122177958488464
+This the past is neither good nor bad.,disgust,0.4486968219280243
+This this book has left me heartbroken.,sadness,0.9878038167953491
+This this failure is neither good nor bad.,disgust,0.5276339650154114
+I'm thinking about this movie.,joy,0.6966248750686646
+I'm thinking about this situation.,neutral,0.398027628660202
+this discovery happened as expected.,surprise,0.44479745626449585
+This this surprise scares me to death!,fear,0.6853601336479187
+What an unexpected this opportunity!,surprise,0.9113080501556396
+I'm astonished by this situation!,surprise,0.972222626209259
+Wow! I can't believe this moment happened!,surprise,0.977635383605957
+this moment is making me livid!,anger,0.9849221110343933
+This this achievement is quite ordinary.,surprise,0.6339542865753174
+I'm astonished by this situation!,surprise,0.972222626209259
+This the future is completely unacceptable!,anger,0.7074503898620605
+How dare they the future!,anger,0.9848299026489258
+I'm feeling so down about my family...,sadness,0.9889342188835144
+My blood is boiling because of the future!,anger,0.9924644231796265
+I adore this realization with all my heart!,joy,0.9782372117042542
+I can't stop smiling about this food!,joy,0.9721890687942505
+What a wonderful my finances we're experiencing!,joy,0.93431156873703
+I'm so mad I can't even think straight about the future!,anger,0.8553385734558105
+This this discovery came out of nowhere!,surprise,0.9152471423149109
+This my job is quite ordinary.,neutral,0.4683661460876465
+I can't handle the fear of my family.,fear,0.9908297061920166
+I'm over the moon about this situation!,surprise,0.4578346610069275
+I'm shaking with fear because of this song.,fear,0.9941628575325012
+this achievement is my worst nightmare!,disgust,0.711073637008667
+This the past makes me so angry I could scream!,anger,0.9855420589447021
+My heart aches because of this place.,sadness,0.9553544521331787
+I cherish this event more than words can say.,joy,0.8846370577812195
+I can't stop crying about my job.,sadness,0.9656616449356079
+This this food has left me heartbroken.,sadness,0.985348641872406
+this realization is just normal.,neutral,0.5590007305145264
+This my finances is neither good nor bad.,joy,0.3482876121997833
+I can't sleep because I'm so scared of this conversation.,fear,0.9896016716957092
+this realization is making me feel so lonely.,sadness,0.9803063869476318
+I'm shaking with fear because of this moment.,fear,0.9944919347763062
+I'm so happy about my job!,joy,0.9878323078155518
+This this discovery scares me to death!,fear,0.9740691781044006
+I'm indifferent about this book.,disgust,0.7385155558586121
+What a wonderful this gift we're experiencing!,joy,0.9248284101486206
+This the news came out of nowhere!,surprise,0.9165553450584412
+I feel such deep love for this song.,joy,0.9184223413467407
+My heart races whenever I think about this situation.,fear,0.5330538153648376
+This my family is quite ordinary.,surprise,0.6026803851127625
+This my health is quite ordinary.,neutral,0.5282350778579712
+I'm over the moon about this situation!,surprise,0.4578346610069275
+I noticed the weather today.,surprise,0.7284250855445862
+I'm thrilled beyond words about this place!,joy,0.9606289863586426
+I'm feeling so down about this realization...,sadness,0.9705920815467834
+Wow! I can't believe this conversation happened!,surprise,0.9773099422454834
+I'm flabbergasted by this achievement!,surprise,0.9030851721763611
+I'm in the depths of despair because of this decision.,fear,0.8829506039619446
+I'm terrified of this movie!,fear,0.9918879866600037
+the future is the love of my life!,joy,0.7503601312637329
+I can't stop smiling about this discovery!,joy,0.9662150144577026
+I'm completely shocked by my job!,surprise,0.9780322313308716
+There's nothing special about my job.,neutral,0.6119499802589417
+the future makes my heart flutter!,fear,0.7158617973327637
+This the future has left me heartbroken.,sadness,0.9859532117843628
+this book makes me feel ecstatic!,joy,0.9852043390274048
+I'm thrilled beyond words about this realization!,joy,0.9562969207763672
+What a wonderful this event we're experiencing!,joy,0.9440287351608276
+I'm flabbergasted by this discovery!,surprise,0.937150776386261
+this challenge is making me livid!,anger,0.9845490455627441
+I can't handle the fear of this gift.,fear,0.9883136749267578
+This my finances came out of nowhere!,surprise,0.9174664616584778
+I'm feeling so down about this event...,sadness,0.9820408821105957
+My anxiety about these changes is overwhelming.,fear,0.9883848428726196
+I'm completely enamored with my friends!,joy,0.9269217252731323
+This this book makes me so angry I could scream!,anger,0.9881382584571838
+My blood is boiling because of this gift!,anger,0.9919695258140564
+this event is just normal.,neutral,0.901007890701294
+this realization is my worst nightmare!,disgust,0.6219531297683716
+I'm indifferent about my friends.,disgust,0.703375518321991
+My heart is full of joy because of this book.,joy,0.9912503957748413
+I can't sleep because I'm so scared of my health.,fear,0.9913950562477112
+the weather happened as expected.,neutral,0.4127535820007324
+I'm shaking with fear because of this movie.,fear,0.9943106174468994
+this achievement makes me feel ecstatic!,joy,0.9821298718452454
+I can't sleep because I'm so scared of the past.,fear,0.9902451038360596
+I'm in the depths of despair because of this food.,fear,0.9397835731506348
+I can't stop smiling about this realization!,joy,0.9546886086463928
+My love for my relationship knows no bounds.,sadness,0.6272000670433044
+I can't stop smiling about the weather!,joy,0.9792313575744629
+I'm astonished by this moment!,surprise,0.9751478433609009
+My heart aches because of the future.,sadness,0.9548957347869873
+I adore this moment with all my heart!,joy,0.9819086790084839
+My love for my finances knows no bounds.,sadness,0.516485869884491
+I can't sleep because I'm so scared of the weather.,fear,0.9903545379638672
+What a wonderful this moment we're experiencing!,joy,0.9196905493736267
+I'm feeling so down about this opportunity...,sadness,0.9844273924827576
+My anxiety about the weather is overwhelming.,fear,0.991923987865448
+What an unexpected this memory!,surprise,0.9611039161682129
+I'm grieving over my relationship.,sadness,0.9813242554664612
+this situation is making me feel so lonely.,sadness,0.9799450635910034
+This this place is neither good nor bad.,disgust,0.9321080446243286
+My love for the past knows no bounds.,sadness,0.8377184867858887
+I feel absolutely delighted by my job.,joy,0.9928818941116333
+I observed the future without much reaction.,disgust,0.6398571133613586
+I cherish this surprise more than words can say.,surprise,0.49095502495765686
+My soul is filled with love because of this place.,joy,0.7848932147026062
+I never expected this surprise to happen!,surprise,0.9693655967712402
+I'm absolutely furious about this gift!,anger,0.9828361868858337
+I'm paralyzed with fear about the past.,fear,0.9843341708183289
+I feel such deep love for my friends.,joy,0.9681645035743713
+My love for the weather knows no bounds.,joy,0.9112929105758667
+What a wonderful this moment we're experiencing!,joy,0.9196905493736267
+How dare they the weather!,anger,0.9841874837875366
+My blood is boiling because of this surprise!,anger,0.9274477362632751
+I'm completely shocked by this decision!,surprise,0.9778172373771667
+I can't sleep because I'm so scared of this achievement.,fear,0.9912934899330139
+This the past is quite ordinary.,neutral,0.835826575756073
+I'm completely shocked by my finances!,surprise,0.978601336479187
+this gift makes my heart flutter!,fear,0.5434134006500244
+My affection for this song grows every day.,joy,0.6417985558509827
+This is the best day ever because of the weather!,joy,0.8841511011123657
+I'm grieving over this opportunity.,sadness,0.9825965762138367
+What an unexpected my finances!,surprise,0.9406382441520691
+I'm feeling so down about the future...,sadness,0.9806287288665771
+I can't sleep because I'm so scared of this discovery.,fear,0.9903262257575989
+My heart is full of joy because of this event.,joy,0.9918143153190613
+I'm completely shocked by the future!,surprise,0.9768848419189453
+This is the best day ever because of my job!,joy,0.938513457775116
+This my health is completely unacceptable!,fear,0.3949817717075348
+This my health makes me so angry I could scream!,anger,0.9823353886604309
+There's nothing special about the news.,neutral,0.8679236769676208
+this song left me speechless!,surprise,0.5696759819984436
+This is the best day ever because of the future!,joy,0.816429615020752
+I never expected this challenge to happen!,surprise,0.9564703106880188
+My soul is filled with love because of this memory.,sadness,0.4423346221446991
+I never expected this gift to happen!,surprise,0.9540233612060547
+This this opportunity is quite ordinary.,surprise,0.6224938035011292
+I'm completely shocked by my health!,surprise,0.9778577089309692
+I never expected this memory to happen!,surprise,0.9380422830581665
+I'm boiling with rage because of my friends.,anger,0.9916069507598877
+I'm feeling so down about this challenge...,sadness,0.98468416929245
+The thought of this food fills me with dread.,fear,0.9890025854110718
+this place makes me feel ecstatic!,joy,0.9871440529823303
+I observed this song without much reaction.,disgust,0.8752188086509705
+The thought of my friends fills me with dread.,fear,0.9924335479736328
+this food is the love of my life!,joy,0.8081070184707642
+This the news is neither good nor bad.,neutral,0.424945205450058
+This this situation has me feeling blue.,sadness,0.8918251395225525
+My heart is full of joy because of this realization.,joy,0.9907382130622864
+I cherish this decision more than words can say.,joy,0.8595631122589111
+My heart races whenever I think about the past.,surprise,0.36889204382896423
+I'm overwhelmed with sorrow about this discovery.,sadness,0.42338061332702637
+My blood is boiling because of my relationship!,anger,0.99257892370224
+This this conversation has left me heartbroken.,sadness,0.9866989850997925
+the past took me completely by surprise!,surprise,0.9586185216903687
+I'm absolutely furious about my family!,anger,0.9849473237991333
+I feel such deep love for the weather.,joy,0.9453349113464355
+I'm so happy about this song!,joy,0.9807330369949341
+this decision is just normal.,neutral,0.9294841289520264
+This the future brings me so much happiness!,joy,0.9851866364479065
+this realization doesn't affect me much.,neutral,0.46852874755859375
+I cherish my finances more than words can say.,joy,0.811962366104126
+this achievement is my worst nightmare!,disgust,0.711073637008667
+My anxiety about these changes is overwhelming.,fear,0.9883848428726196
+This this conversation brings me so much happiness!,joy,0.9872428178787231
+this surprise has me seeing red!,surprise,0.9623927474021912
+this challenge doesn't affect me much.,neutral,0.7578262686729431
+this book makes my heart flutter!,surprise,0.4725557267665863
+this movie has me seeing red!,surprise,0.7313038110733032
+I'm thinking about my health.,fear,0.37650707364082336
+I adore this decision with all my heart!,joy,0.9821227788925171
+I feel absolutely delighted by this memory.,joy,0.989364504814148
+I can't stop smiling about this movie!,joy,0.9772130846977234
+My affection for this song grows every day.,joy,0.6417985558509827
+I'm head over heels for this realization!,surprise,0.4943409562110901
+I'm boiling with rage because of my family.,anger,0.9915832877159119
+I'm thrilled beyond words about the future!,joy,0.9616273641586304
+I'm enraged by this song!,anger,0.9860650300979614
+My blood is boiling because of this moment!,anger,0.9920124411582947
+I adore this realization with all my heart!,joy,0.9782372117042542
+The thought of the news fills me with dread.,fear,0.9894331097602844
+I'm over the moon about the past!,surprise,0.5192376375198364
+This this event is quite ordinary.,surprise,0.643887460231781
+Tears won't stop falling because of this failure.,sadness,0.8434858918190002
+I'm feeling so down about the weather...,sadness,0.9838491678237915
+I'm feeling so down about my finances...,sadness,0.9845874309539795
+I cherish the past more than words can say.,joy,0.7696500420570374
+This is the best day ever because of this realization!,joy,0.8469070792198181
+I'm grieving over this decision.,sadness,0.9822832942008972
+this song happened as expected.,surprise,0.44915127754211426
+This is the best day ever because of this memory!,joy,0.7151122093200684
+this decision took me completely by surprise!,surprise,0.963640570640564
+My heart aches because of this conversation.,sadness,0.9435269236564636
+This is the best day ever because of my job!,joy,0.938513457775116
+the past is making me livid!,anger,0.9838727116584778
+I feel absolutely delighted by this realization.,joy,0.9887382984161377
+this gift is the love of my life!,joy,0.7914459109306335
+Wow! I can't believe this surprise happened!,surprise,0.9793016910552979
+I cherish this achievement more than words can say.,joy,0.8988310694694519
+my family is my worst nightmare!,fear,0.9339402318000793
+I'm completely enamored with the past!,joy,0.8517000079154968
+this moment took me completely by surprise!,surprise,0.9576085805892944
+This my family scares me to death!,fear,0.982014000415802
+How dare they this discovery!,anger,0.9795954823493958
+the news is making me livid!,anger,0.9854944944381714
+I'm so mad I can't even think straight about this achievement!,anger,0.8567900061607361
+this situation is the love of my life!,surprise,0.3706018328666687
+my finances is just normal.,neutral,0.5256016850471497
+this book is making me livid!,anger,0.9802032709121704
+My blood is boiling because of this achievement!,anger,0.9931187629699707
+I noticed this food today.,neutral,0.5564126968383789
+I'm so happy about this gift!,joy,0.9680176973342896
+this food is making me feel so lonely.,sadness,0.9759101867675781
+I'm enraged by the future!,anger,0.9858885407447815
+this failure is my worst nightmare!,disgust,0.5235680341720581
+I'm completely enamored with this moment!,joy,0.8974570035934448
+this place is making me feel so lonely.,sadness,0.9794107675552368
+this realization is just normal.,neutral,0.5590007305145264
+My anxiety about my finances is overwhelming.,fear,0.9913643598556519
+I can't stop smiling about this memory!,joy,0.9511590003967285
+these changes has me seeing red!,surprise,0.822131872177124
+I'm absolutely furious about the weather!,anger,0.9844098091125488
+this conversation is making me feel so lonely.,sadness,0.977790117263794
+My jaw dropped when I saw this challenge!,surprise,0.9071876406669617
+these changes is the love of my life!,surprise,0.49646180868148804
+My heart is full of joy because of this gift.,joy,0.9910523295402527
+I observed this event without much reaction.,disgust,0.789496660232544
+I'm so happy about the news!,joy,0.9787771701812744
+This this challenge has left me heartbroken.,sadness,0.9886119961738586
+My anxiety about this event is overwhelming.,fear,0.9918031096458435
+this achievement makes me feel ecstatic!,joy,0.9821298718452454
+I'm in the depths of despair because of this failure.,fear,0.8323824405670166
+This is the best day ever because of this surprise!,surprise,0.7737270593643188
+this book left me speechless!,surprise,0.671241819858551
+This the news is completely unacceptable!,disgust,0.4903585612773895
+This my friends has left me heartbroken.,sadness,0.9870612621307373
+this failure makes me feel ecstatic!,joy,0.9880725145339966
+I'm in the depths of despair because of this moment.,fear,0.9223645925521851
+I noticed this challenge today.,surprise,0.6236422657966614
+My jaw dropped when I saw this situation!,surprise,0.7826099991798401
+This this movie has me feeling blue.,sadness,0.9247809052467346
+I'm over the moon about my family!,surprise,0.36327165365219116
+I cherish this discovery more than words can say.,joy,0.8658403754234314
+This my health makes me so angry I could scream!,anger,0.9823353886604309
+the future happened as expected.,neutral,0.6573160290718079
+I'm feeling so down about this opportunity...,sadness,0.9844273924827576
+I'm terrified of my friends!,fear,0.9936385750770569
+my relationship left me speechless!,fear,0.5496270060539246
+What an unexpected my job!,surprise,0.8970056176185608
+my finances is making me feel so lonely.,sadness,0.9907779693603516
+This these changes is neither good nor bad.,disgust,0.750845193862915
+Wow! I can't believe this song happened!,surprise,0.9786084294319153
+I can't sleep because I'm so scared of the news.,fear,0.9911333918571472
+My blood is boiling because of this realization!,anger,0.9927518367767334
+my health is just normal.,joy,0.5254426002502441
+this place is the love of my life!,surprise,0.42661312222480774
+this food happened as expected.,neutral,0.711708128452301
+I'm astonished by this surprise!,surprise,0.9795486927032471
+I observed this surprise without much reaction.,surprise,0.9789026975631714
+This this food is quite ordinary.,neutral,0.6048673987388611
+I can't stop smiling about this book!,joy,0.9747750759124756
+This this conversation brings me so much happiness!,joy,0.9872428178787231
+My heart aches because of my finances.,sadness,0.9684582352638245
+There's nothing special about my relationship.,neutral,0.7841355800628662
+This the future is quite ordinary.,neutral,0.6913420557975769
+I adore this place with all my heart!,joy,0.9797183275222778
+I'm boiling with rage because of the weather.,anger,0.991852343082428
+I can't handle the fear of this realization.,fear,0.9874055981636047
+The thought of this place fills me with dread.,fear,0.9883025288581848
+this opportunity has me seeing red!,joy,0.4958839416503906
+I'm overwhelmed with sorrow about the news.,sadness,0.8059152960777283
+this conversation is making me feel so lonely.,sadness,0.977790117263794
+I'm shaking with fear because of my relationship.,fear,0.9947579503059387
+I feel absolutely delighted by this discovery.,joy,0.9896600246429443
+I'm thinking about the news.,neutral,0.5503833889961243
+The thought of my family fills me with dread.,fear,0.9922370314598083
+this failure is making me livid!,anger,0.9847925901412964
+This my health has me feeling blue.,sadness,0.9538996815681458
+This this song is neither good nor bad.,disgust,0.8694416880607605
+this movie took me completely by surprise!,surprise,0.9431942105293274
+this challenge took me completely by surprise!,surprise,0.9535461664199829
+I'm feeling so down about this challenge...,sadness,0.98468416929245
+My jaw dropped when I saw my health!,surprise,0.7877359390258789
+these changes took me completely by surprise!,surprise,0.9626858830451965
+this discovery doesn't affect me much.,neutral,0.8208945393562317
+Wow! I can't believe this conversation happened!,surprise,0.9773099422454834
+My blood is boiling because of this book!,anger,0.9920627474784851
+I'm absolutely furious about this food!,anger,0.9816229343414307
+Wow! I can't believe this moment happened!,surprise,0.977635383605957
+This this challenge scares me to death!,fear,0.9800022840499878
+the weather took me completely by surprise!,surprise,0.954561173915863
+I'm boiling with rage because of this situation.,anger,0.991359531879425
+This my finances is completely unacceptable!,anger,0.7863985300064087
+I'm feeling so down about my health...,sadness,0.9821175932884216
+I'm over the moon about this realization!,surprise,0.657130777835846
+This this book is neither good nor bad.,disgust,0.8402488231658936
+This this conversation scares me to death!,fear,0.976938009262085
+I'm head over heels for this event!,surprise,0.36003968119621277
+I can't stop crying about this surprise.,surprise,0.9635882377624512
+I'm grieving over this challenge.,sadness,0.9811065196990967
+My anxiety about the news is overwhelming.,fear,0.9925186634063721
+I never expected this event to happen!,surprise,0.9575977325439453
+my job is making me livid!,anger,0.9903648495674133
+I'm grieving over this conversation.,sadness,0.9810475707054138
+the future is making me feel so lonely.,sadness,0.983095109462738
+I'm over the moon about this failure!,disgust,0.3057557940483093
+I feel such deep love for this memory.,joy,0.9341186881065369
+My jaw dropped when I saw my relationship!,surprise,0.6085594296455383
+This the news brings me so much happiness!,joy,0.9815882444381714
+my relationship is just normal.,joy,0.6711463928222656
+this failure left me speechless!,surprise,0.43652480840682983
+my finances is just normal.,neutral,0.5256016850471497
+My affection for this discovery grows every day.,joy,0.7508110404014587
+I cherish my job more than words can say.,joy,0.8899659514427185
+I'm feeling so down about the past...,sadness,0.9680995941162109
+I'm grieving over this book.,sadness,0.9856951832771301
+What an unexpected this realization!,surprise,0.9492807388305664
+This my relationship is quite ordinary.,neutral,0.6788064241409302
+this surprise is just normal.,surprise,0.9689756035804749
+Wow! I can't believe this event happened!,surprise,0.9784237742424011
+the past has me seeing red!,surprise,0.5239967703819275
+I'm thrilled beyond words about this moment!,joy,0.9565707445144653
+I'm overwhelmed with sorrow about this failure.,sadness,0.8325417041778564
+This is the best day ever because of this gift!,joy,0.8697267174720764
+My heart races whenever I think about this challenge.,fear,0.5046579241752625
+My soul is filled with love because of the past.,sadness,0.8402993679046631
+I'm paralyzed with fear about my health.,fear,0.983740508556366
+My heart races whenever I think about this failure.,fear,0.4189424216747284
+What an unexpected the future!,surprise,0.9314173460006714
+This my job has left me heartbroken.,sadness,0.9882489442825317
+I'm head over heels for the weather!,anger,0.24825000762939453
+I'm completely shocked by this food!,surprise,0.9734912514686584
+What an unexpected this gift!,surprise,0.8810355067253113
+this opportunity is the love of my life!,joy,0.8190705180168152
+I'm overwhelmed with sorrow about this event.,sadness,0.5241562128067017
+My affection for this book grows every day.,joy,0.7711234092712402
+This this realization is quite ordinary.,surprise,0.7462224364280701
+I cherish this moment more than words can say.,joy,0.822224497795105
+My heart races whenever I think about this opportunity.,fear,0.6955552101135254
+I can't handle the fear of this achievement.,fear,0.9877211451530457
+my finances is making me feel so lonely.,sadness,0.9907779693603516
+I adore this challenge with all my heart!,joy,0.9826065301895142
+My blood is boiling because of this challenge!,anger,0.9929531216621399
+I feel such deep love for this conversation.,joy,0.9382386803627014
+this discovery is making me livid!,anger,0.9837204217910767
+the past makes my heart flutter!,fear,0.5607158541679382
+I'm boiling with rage because of the past.,anger,0.9913289546966553
+My heart is full of joy because of this gift.,joy,0.9910523295402527
+What a wonderful the past we're experiencing!,joy,0.9258883595466614
+What a wonderful this place we're experiencing!,joy,0.9336476922035217
+I'm thinking about this memory.,neutral,0.7323592901229858
+I can't stop smiling about this movie!,joy,0.9772130846977234
+I cherish this conversation more than words can say.,joy,0.8625890016555786
+my finances makes me feel ecstatic!,joy,0.9891582727432251
+This this achievement is completely unacceptable!,anger,0.6707109212875366
+I'm feeling so down about this moment...,sadness,0.9754642248153687
+I'm paralyzed with fear about this place.,fear,0.990568220615387
+I'm shaking with fear because of this moment.,fear,0.9944919347763062
+I'm shaking with fear because of the future.,fear,0.9943515062332153
+My heart is full of joy because of this event.,joy,0.9918143153190613
+I'm over the moon about the weather!,surprise,0.43153730034828186
+This this opportunity is neither good nor bad.,disgust,0.4768041968345642
+This this song brings me so much happiness!,joy,0.9850988388061523
+My love for this book knows no bounds.,joy,0.9487585425376892
+I'm paralyzed with fear about this failure.,fear,0.9872310757637024
+this moment makes my heart flutter!,fear,0.6690599322319031
+What a wonderful this gift we're experiencing!,joy,0.9248284101486206
+this food happened as expected.,neutral,0.711708128452301
+Tears won't stop falling because of these changes.,sadness,0.7134963870048523
+This the weather came out of nowhere!,surprise,0.9038140177726746
+I cherish this discovery more than words can say.,joy,0.8658403754234314
+I'm thrilled beyond words about my friends!,joy,0.9503920674324036
+I'm in the depths of despair because of my health.,fear,0.8661669492721558
+I feel absolutely delighted by my finances.,joy,0.9908245801925659
+I'm thrilled beyond words about this achievement!,joy,0.9493452310562134
+I adore my finances with all my heart!,joy,0.9722007513046265
+I'm enraged by my relationship!,anger,0.9875872731208801
+my friends is making me livid!,anger,0.981483519077301
+I'm feeling so down about this event...,sadness,0.9820408821105957
+The thought of this place fills me with dread.,fear,0.9883025288581848
+My heart races whenever I think about this conversation.,surprise,0.4251629710197449
+I feel absolutely delighted by this decision.,joy,0.9902710914611816
+I'm enraged by these changes!,anger,0.9878843426704407
+I'm paralyzed with fear about this book.,fear,0.9918596148490906
+the past is making me feel so lonely.,sadness,0.9809163212776184
+this place is making me feel so lonely.,sadness,0.9794107675552368
+My affection for this event grows every day.,joy,0.636699914932251
+This this book makes me so angry I could scream!,anger,0.9881382584571838
+I cherish this memory more than words can say.,joy,0.6002755165100098
+This this achievement is neither good nor bad.,disgust,0.650068998336792
+I'm paralyzed with fear about this achievement.,fear,0.9874536991119385
+My blood is boiling because of this song!,anger,0.9924144148826599
+This this food came out of nowhere!,surprise,0.913729727268219
+My heart is full of joy because of this song.,joy,0.9909788370132446
+this discovery makes my heart flutter!,fear,0.5242196321487427
+I can't sleep because I'm so scared of this memory.,fear,0.9897799491882324
+I'm boiling with rage because of this situation.,anger,0.991359531879425
+My jaw dropped when I saw this event!,surprise,0.8949881792068481
+I'm completely enamored with this realization!,joy,0.8099255561828613
+I'm in the depths of despair because of this discovery.,fear,0.8964294195175171
+this failure is making me feel so lonely.,sadness,0.9801902174949646
+This the news is neither good nor bad.,neutral,0.424945205450058
+these changes is the love of my life!,surprise,0.49646180868148804
+What an unexpected this song!,surprise,0.9310981035232544
+I'm so happy about my friends!,joy,0.9729043245315552
+I cherish my family more than words can say.,joy,0.7319158315658569
+this movie doesn't affect me much.,neutral,0.56978440284729
+this achievement is the love of my life!,joy,0.8963653445243835
+I'm head over heels for this moment!,anger,0.45259198546409607
+my job has me seeing red!,surprise,0.7661767601966858
+this conversation left me speechless!,surprise,0.5475471019744873
+this discovery is making me feel so lonely.,sadness,0.9777666330337524
+My jaw dropped when I saw this food!,surprise,0.8541009426116943
+I never expected this moment to happen!,surprise,0.9442083835601807
+Tears won't stop falling because of the weather.,sadness,0.8911266326904297
+My heart is full of joy because of this challenge.,joy,0.9905691146850586
+There's nothing special about this surprise.,surprise,0.9662549495697021
+I can't stop smiling about the past!,joy,0.9679821729660034
+my job happened as expected.,surprise,0.6730603575706482
+I'm over the moon about this failure!,disgust,0.3057557940483093
+my finances is making me feel so lonely.,sadness,0.9907779693603516
+I'm so mad I can't even think straight about this realization!,anger,0.8459915518760681
+I'm so mad I can't even think straight about my job!,anger,0.8553547859191895
+this challenge doesn't affect me much.,neutral,0.7578262686729431
+My heart is full of joy because of this surprise.,joy,0.6707450151443481
+The thought of this food fills me with dread.,fear,0.9890025854110718
+this gift is just normal.,neutral,0.7440109848976135
+My blood is boiling because of this discovery!,anger,0.991398811340332
+I'm absolutely furious about this decision!,anger,0.9822579026222229
+this challenge makes my heart flutter!,fear,0.695650041103363
+I'm enraged by this surprise!,anger,0.9645009636878967
+I can't handle the fear of this event.,fear,0.9875410199165344
+This this surprise has me feeling blue.,surprise,0.8365910649299622
+this decision is making me livid!,anger,0.9837318658828735
+this food is just normal.,neutral,0.9313912391662598
+I can't stop crying about this gift.,sadness,0.7828429341316223
+I'm astonished by this food!,surprise,0.9739506840705872
+this book happened as expected.,surprise,0.521052896976471
+this achievement has me seeing red!,joy,0.5188210606575012
+What a wonderful this challenge we're experiencing!,joy,0.9234685301780701
+this realization happened as expected.,surprise,0.6621918678283691
+I'm over the moon about this moment!,surprise,0.5986375212669373
+This this song is neither good nor bad.,disgust,0.8694416880607605
+My soul is filled with love because of this book.,joy,0.824268102645874
+This this memory is completely unacceptable!,anger,0.5535905361175537
+the past left me speechless!,fear,0.7123480439186096
+my job is just normal.,joy,0.7198591232299805
+I'm so mad I can't even think straight about this achievement!,anger,0.8567900061607361
+I'm over the moon about this place!,surprise,0.7556365132331848
+How dare they this place!,anger,0.9790200591087341
+My blood is boiling because of my finances!,anger,0.9927318692207336
+This this failure is quite ordinary.,disgust,0.43763405084609985
+I'm astonished by this realization!,surprise,0.9777843952178955
+This my relationship came out of nowhere!,surprise,0.883131742477417
+I never expected this moment to happen!,surprise,0.9442083835601807
+This is the best day ever because of my health!,joy,0.9368817806243896
+I observed this book without much reaction.,disgust,0.9468521475791931
+I'm terrified of my health!,fear,0.9930145740509033
+What a wonderful the future we're experiencing!,joy,0.9432696104049683
+I'm completely enamored with the weather!,joy,0.9670101404190063
+I'm indifferent about my health.,disgust,0.45084354281425476
+I'm shaking with fear because of my friends.,fear,0.9949504137039185
+What an unexpected the past!,surprise,0.9477201104164124
+I'm enraged by my job!,anger,0.9874130487442017
+This the weather is neither good nor bad.,neutral,0.6381794810295105
+this memory happened as expected.,neutral,0.7180864214897156
+this surprise doesn't affect me much.,surprise,0.9763988852500916
+This my job has left me heartbroken.,sadness,0.9882489442825317
+I observed these changes without much reaction.,disgust,0.46887144446372986
+I'm indifferent about my family.,disgust,0.5367454886436462
+I'm over the moon about this failure!,disgust,0.3057557940483093
+I observed this place without much reaction.,disgust,0.962831974029541
+this book is making me feel so lonely.,sadness,0.9827734231948853
+This this failure makes me so angry I could scream!,anger,0.9893054962158203
+I'm paralyzed with fear about this food.,fear,0.9883472323417664
+I'm feeling so down about the past...,sadness,0.9680995941162109
+I'm astonished by my relationship!,surprise,0.9738715291023254
+I'm paralyzed with fear about this song.,fear,0.9882474541664124
+This this memory is neither good nor bad.,disgust,0.7758208513259888
+I'm paralyzed with fear about this book.,fear,0.9918596148490906
+I feel absolutely delighted by this challenge.,joy,0.9902532696723938
+This this memory has left me heartbroken.,sadness,0.9839553236961365
+this challenge makes my heart flutter!,fear,0.695650041103363
+this realization makes my heart flutter!,fear,0.6180379986763
+This my friends has me feeling blue.,sadness,0.9191347360610962
+This this song is neither good nor bad.,disgust,0.8694416880607605
+This this challenge is neither good nor bad.,disgust,0.5721831917762756
+This my finances is completely unacceptable!,anger,0.7863985300064087
+This this book brings me so much happiness!,joy,0.9877614974975586
+I'm enraged by the weather!,anger,0.9857550859451294
+This the news has me feeling blue.,sadness,0.9554911255836487
+I can't stop crying about my family.,sadness,0.977525532245636
+My anxiety about this opportunity is overwhelming.,fear,0.9915938377380371
+I can't handle the fear of the weather.,fear,0.986474335193634
+these changes is the love of my life!,surprise,0.49646180868148804
+There's nothing special about this surprise.,surprise,0.9662549495697021
+this situation took me completely by surprise!,surprise,0.9634377360343933
+I'm feeling so down about this situation...,sadness,0.9772914052009583
+I can't sleep because I'm so scared of this gift.,fear,0.9904886484146118
+I feel absolutely delighted by my health.,joy,0.9911028146743774
+I feel absolutely delighted by this decision.,joy,0.9902710914611816
+I adore my finances with all my heart!,joy,0.9722007513046265
+Tears won't stop falling because of this surprise.,surprise,0.8088459968566895
+I noticed this discovery today.,surprise,0.6685721278190613
+This this food scares me to death!,fear,0.9554722905158997
+I'm in the depths of despair because of my health.,fear,0.8661669492721558
+this gift is my worst nightmare!,disgust,0.6469921469688416
+I noticed this song today.,surprise,0.5558471083641052
+I can't sleep because I'm so scared of my finances.,fear,0.9912793040275574
+This this food is neither good nor bad.,disgust,0.8695157766342163
+My heart is full of joy because of the future.,joy,0.9890450239181519
+My heart races whenever I think about this memory.,surprise,0.4133929908275604
+This is the best day ever because of this event!,joy,0.7927904725074768
+I'm so mad I can't even think straight about my family!,anger,0.8659309148788452
+I can't stop crying about these changes.,sadness,0.8574994802474976
+I'm grieving over this surprise.,surprise,0.9266761541366577
+I'm completely enamored with my finances!,joy,0.44537410140037537
+I'm astonished by this event!,surprise,0.9758979678153992
+this food makes my heart flutter!,surprise,0.4658178389072418
+My heart is full of joy because of the weather.,joy,0.9888026118278503
+There's nothing special about this realization.,neutral,0.5310356616973877
+the weather doesn't affect me much.,neutral,0.6068699955940247
+This these changes is neither good nor bad.,disgust,0.750845193862915
+This this movie brings me so much happiness!,joy,0.987343430519104
+What an unexpected the news!,surprise,0.9339150190353394
+I can't handle the fear of this conversation.,fear,0.9827210307121277
+I'm indifferent about my job.,disgust,0.521590530872345
+I'm shaking with fear because of this decision.,fear,0.9941704273223877
+this realization doesn't affect me much.,neutral,0.46852874755859375
+this book makes my heart flutter!,surprise,0.4725557267665863
+My blood is boiling because of this decision!,anger,0.9927829504013062
+I feel absolutely delighted by this realization.,joy,0.9887382984161377
+My soul is filled with love because of my health.,sadness,0.48785585165023804
+I'm flabbergasted by this opportunity!,surprise,0.8557961583137512
+This these changes is completely unacceptable!,anger,0.6247477531433105
+I feel such deep love for this surprise.,surprise,0.5570670962333679
+I'm flabbergasted by this surprise!,surprise,0.9576088786125183
+I'm so mad I can't even think straight about these changes!,anger,0.8453059792518616
+The thought of this realization fills me with dread.,fear,0.9874987006187439
+this failure has me seeing red!,anger,0.5433030128479004
+I adore this event with all my heart!,joy,0.9846643805503845
+I'm grieving over this book.,sadness,0.9856951832771301
+I'm terrified of the news!,fear,0.9923481941223145
+This my friends scares me to death!,fear,0.9707401394844055
+My jaw dropped when I saw this memory!,surprise,0.8411658406257629
+My blood is boiling because of this event!,anger,0.9917824268341064
+I cherish this situation more than words can say.,joy,0.8089131116867065
+I'm boiling with rage because of this situation.,anger,0.991359531879425
+I'm paralyzed with fear about my health.,fear,0.983740508556366
+I can't stop smiling about the future!,joy,0.973308265209198
+The thought of the news fills me with dread.,fear,0.9894331097602844
+I'm indifferent about this event.,disgust,0.7137370705604553
+This my relationship has me feeling blue.,sadness,0.8821896314620972
+this achievement is making me feel so lonely.,sadness,0.9824981093406677
+I'm over the moon about this place!,surprise,0.7556365132331848
+I'm over the moon about this food!,surprise,0.6728975772857666
+I'm feeling so down about my family...,sadness,0.9889342188835144
+My jaw dropped when I saw my health!,surprise,0.7877359390258789
+I can't stop crying about this gift.,sadness,0.7828429341316223
+This this event makes me so angry I could scream!,anger,0.9876940250396729
+My blood is boiling because of this surprise!,anger,0.9274477362632751
+There's nothing special about this gift.,neutral,0.6746363639831543
+My heart is full of joy because of my family.,joy,0.9912262558937073
+Wow! I can't believe this food happened!,surprise,0.9742082357406616
+this place took me completely by surprise!,surprise,0.9598531723022461
+This this event is neither good nor bad.,disgust,0.77862548828125
+this food is my worst nightmare!,disgust,0.7922070026397705
+This my friends is quite ordinary.,surprise,0.6066948175430298
+Wow! I can't believe this decision happened!,surprise,0.9777355194091797
+I'm thinking about this book.,joy,0.8116893172264099
+this conversation is making me feel so lonely.,sadness,0.977790117263794
+Wow! I can't believe this surprise happened!,surprise,0.9793016910552979
+My heart is full of joy because of the future.,joy,0.9890450239181519
+I'm grieving over this book.,sadness,0.9856951832771301
+I'm flabbergasted by this memory!,surprise,0.9482064247131348
+This this place makes me so angry I could scream!,anger,0.9863068461418152
+There's nothing special about this gift.,neutral,0.6746363639831543
+This my finances makes me so angry I could scream!,anger,0.9855244755744934
+I'm completely enamored with this place!,joy,0.9607498645782471
+My heart aches because of this memory.,sadness,0.9257107973098755
+this event left me speechless!,surprise,0.6423421502113342
+This this decision has me feeling blue.,sadness,0.9371539354324341
+I'm feeling so down about this conversation...,sadness,0.9669351577758789
+I can't handle the fear of this food.,fear,0.9853759407997131
+I can't stop smiling about these changes!,joy,0.9582304358482361
+I'm shaking with fear because of this food.,fear,0.9941052198410034
+I can't sleep because I'm so scared of this movie.,fear,0.989875078201294
+this conversation left me speechless!,surprise,0.5475471019744873
+I can't stop smiling about this opportunity!,joy,0.9748495817184448
+My heart aches because of my relationship.,sadness,0.9682130813598633
+this opportunity is my worst nightmare!,fear,0.5576958060264587
+I can't sleep because I'm so scared of this opportunity.,fear,0.9909018874168396
+I'm paralyzed with fear about this gift.,fear,0.989408016204834
+my friends doesn't affect me much.,sadness,0.6718350052833557
+This the future scares me to death!,fear,0.9725340604782104
+My blood is boiling because of the news!,anger,0.9924091100692749
+This this failure has left me heartbroken.,sadness,0.98592209815979
+I'm in the depths of despair because of this food.,fear,0.9397835731506348
+my family is making me livid!,anger,0.988669753074646
+I'm absolutely furious about this achievement!,anger,0.9843676686286926
+What an unexpected this food!,surprise,0.9215459823608398
+I can't stop smiling about this realization!,joy,0.9546886086463928
+this decision is making me feel so lonely.,sadness,0.9799041748046875
+my friends is making me feel so lonely.,sadness,0.9892387390136719
+I'm completely shocked by this challenge!,surprise,0.979601263999939
+I'm in the depths of despair because of the future.,fear,0.8098101615905762
+This this moment has me feeling blue.,sadness,0.9202313423156738
+I'm in the depths of despair because of this song.,fear,0.9078180193901062
+I can't stop smiling about the past!,joy,0.9679821729660034
+My love for this song knows no bounds.,joy,0.919506311416626
+I cherish the news more than words can say.,joy,0.9262105822563171
+the future is my worst nightmare!,fear,0.5031424164772034
+This this food is quite ordinary.,neutral,0.6048673987388611
+How dare they these changes!,anger,0.9822028875350952
+I feel absolutely delighted by this failure.,joy,0.9876556992530823
+I'm thrilled beyond words about this memory!,joy,0.9611140489578247
+I'm so mad I can't even think straight about these changes!,anger,0.8453059792518616
+this song is just normal.,neutral,0.8698626160621643
+How dare they the past!,anger,0.9841187000274658
+My heart aches because of this opportunity.,sadness,0.9560396075248718
+I'm so happy about this event!,joy,0.982719898223877
+This my job makes me so angry I could scream!,anger,0.9854427576065063
+I'm indifferent about this memory.,disgust,0.6118552684783936
+I'm grieving over this book.,sadness,0.9856951832771301
+Tears won't stop falling because of this realization.,sadness,0.8364449143409729
+I'm so mad I can't even think straight about this moment!,anger,0.841686487197876
+I can't stop crying about this event.,sadness,0.8916816115379333
+I'm in the depths of despair because of this situation.,fear,0.9138058423995972
+my finances took me completely by surprise!,surprise,0.9635319113731384
+I'm feeling so down about this food...,sadness,0.9758913516998291
+My affection for my relationship grows every day.,joy,0.6360825896263123
+My anxiety about this opportunity is overwhelming.,fear,0.9915938377380371
+I'm feeling so down about my finances...,sadness,0.9845874309539795
+My love for this food knows no bounds.,joy,0.9378967881202698
+I'm astonished by this place!,surprise,0.9762728810310364
+My soul is filled with love because of this gift.,joy,0.9169864654541016
+This this memory makes me so angry I could scream!,anger,0.986786425113678
+the past makes me feel ecstatic!,joy,0.9895385503768921
+I never expected the weather to happen!,surprise,0.9368730783462524
+I feel such deep love for this conversation.,joy,0.9382386803627014
+I'm astonished by the past!,surprise,0.9742149114608765
+Tears won't stop falling because of this situation.,sadness,0.7828617691993713
+I observed this surprise without much reaction.,surprise,0.9789026975631714
+I'm feeling so down about the past...,sadness,0.9680995941162109
+I'm in the depths of despair because of this book.,fear,0.9226839542388916
+my relationship happened as expected.,surprise,0.509903609752655
+I'm feeling so down about the weather...,sadness,0.9838491678237915
+Tears won't stop falling because of this decision.,sadness,0.7690877318382263
+I feel absolutely delighted by this conversation.,joy,0.9893167018890381
+I'm terrified of this food!,fear,0.9898712038993835
+My anxiety about my family is overwhelming.,fear,0.9923815131187439
+I adore this song with all my heart!,joy,0.9797267913818359
+I'm thrilled beyond words about this challenge!,joy,0.960167407989502
+My soul is filled with love because of this moment.,joy,0.8117892742156982
+this discovery left me speechless!,surprise,0.6473272442817688
+Wow! I can't believe this achievement happened!,surprise,0.9787842631340027
+I'm head over heels for this place!,surprise,0.572490394115448
+I'm head over heels for my finances!,anger,0.5569843649864197
+This this movie has me feeling blue.,sadness,0.9247809052467346
+I'm feeling so down about this challenge...,sadness,0.98468416929245
+What an unexpected my family!,surprise,0.8865463733673096
+I can't handle the fear of these changes.,fear,0.980583131313324
+My heart races whenever I think about this song.,surprise,0.4645983874797821
+I never expected this decision to happen!,surprise,0.9431445598602295
+I'm thinking about the weather.,neutral,0.7404593229293823
+this moment is making me feel so lonely.,sadness,0.9817299842834473
+I can't stop smiling about my family!,joy,0.9782193899154663
+I'm flabbergasted by this book!,surprise,0.9090462327003479
+I'm so mad I can't even think straight about my family!,anger,0.8659309148788452
+I'm feeling so down about this realization...,sadness,0.9705920815467834
+This my job is neither good nor bad.,joy,0.5751956701278687
+My blood is boiling because of the future!,anger,0.9924644231796265
+What a wonderful my health we're experiencing!,joy,0.9451465010643005
+my relationship makes me feel ecstatic!,joy,0.9888486862182617
+I can't handle the fear of this situation.,fear,0.9845418930053711
+What an unexpected this gift!,surprise,0.8810355067253113
+I'm thinking about my relationship.,fear,0.3527171313762665
+There's nothing special about this realization.,neutral,0.5310356616973877
+I feel such deep love for this failure.,sadness,0.915303647518158
+I'm boiling with rage because of this achievement.,anger,0.9922139048576355
+This this food has left me heartbroken.,sadness,0.985348641872406
+this memory makes me feel ecstatic!,joy,0.9885125160217285
+I can't handle the fear of this opportunity.,fear,0.9867421984672546
+There's nothing special about this achievement.,neutral,0.5954958200454712
+this event is making me feel so lonely.,sadness,0.9801967144012451
+this book is my worst nightmare!,disgust,0.7536811828613281
+This this failure scares me to death!,fear,0.9801400303840637
+I'm thinking about this place.,surprise,0.29478466510772705
+I'm over the moon about this food!,surprise,0.6728975772857666
+I'm indifferent about my friends.,disgust,0.703375518321991
+I'm head over heels for these changes!,surprise,0.44476398825645447
+I'm astonished by my family!,surprise,0.9764991402626038
+I'm boiling with rage because of my relationship.,anger,0.9922391176223755
+The thought of the future fills me with dread.,fear,0.9878246784210205
+My blood is boiling because of the future!,anger,0.9924644231796265
+these changes is making me feel so lonely.,sadness,0.9750644564628601
+This my finances is completely unacceptable!,anger,0.7863985300064087
+I'm so mad I can't even think straight about my relationship!,anger,0.8694735765457153
+I can't stop smiling about this situation!,joy,0.9457380771636963
+I'm paralyzed with fear about my friends.,fear,0.9872137308120728
+My love for this movie knows no bounds.,joy,0.9449340105056763
+I'm astonished by my friends!,surprise,0.9768094420433044
+I'm so happy about this memory!,joy,0.9834534525871277
+I'm enraged by this failure!,anger,0.9873769283294678
+This is the best day ever because of this memory!,joy,0.7151122093200684
+this situation is just normal.,neutral,0.9101191163063049
+this achievement makes my heart flutter!,fear,0.6066622734069824
+I'm enraged by my health!,anger,0.9873894453048706
+This my health brings me so much happiness!,joy,0.9864659905433655
+This this movie came out of nowhere!,surprise,0.9034608602523804
+My love for these changes knows no bounds.,joy,0.7046207189559937
+This this surprise makes me so angry I could scream!,anger,0.6412873864173889
+There's nothing special about this situation.,neutral,0.7989336848258972
+My heart aches because of these changes.,sadness,0.9311828017234802
+the news left me speechless!,fear,0.5549827218055725
+this moment left me speechless!,fear,0.5000236630439758
+I'm shaking with fear because of this failure.,fear,0.9939538836479187
+I'm thinking about this memory.,neutral,0.7323592901229858
+I'm indifferent about this surprise.,surprise,0.8374596238136292
+How dare they this place!,anger,0.9790200591087341
+my health took me completely by surprise!,surprise,0.9628723859786987
+This this food is quite ordinary.,neutral,0.6048673987388611
+My anxiety about my health is overwhelming.,fear,0.9914354681968689
+I'm so mad I can't even think straight about my family!,anger,0.8659309148788452
+This this opportunity has left me heartbroken.,sadness,0.9881986379623413
+I adore the news with all my heart!,joy,0.986868679523468
+I'm over the moon about these changes!,surprise,0.7618931531906128
+I feel such deep love for this failure.,sadness,0.915303647518158
+I'm completely enamored with my health!,joy,0.8500477075576782
+I feel absolutely delighted by the weather.,joy,0.9911483526229858
+this food makes me feel ecstatic!,joy,0.9858970046043396
+My heart is full of joy because of this conversation.,joy,0.9924938678741455
+This the future brings me so much happiness!,joy,0.9851866364479065
+This my family brings me so much happiness!,joy,0.9884379506111145
+This this food came out of nowhere!,surprise,0.913729727268219
+this surprise doesn't affect me much.,surprise,0.9763988852500916
+I noticed my friends today.,surprise,0.6880720257759094
+My heart aches because of this song.,sadness,0.9595158696174622
+this memory left me speechless!,surprise,0.6894189119338989
+I'm completely enamored with my friends!,joy,0.9269217252731323
+My blood is boiling because of this memory!,anger,0.9925615191459656
+I'm completely enamored with this decision!,joy,0.9253180027008057
+I observed this gift without much reaction.,disgust,0.8876827359199524
+I'm astonished by my family!,surprise,0.9764991402626038
+I'm thinking about this moment.,neutral,0.4406317174434662
+This this movie brings me so much happiness!,joy,0.987343430519104
+I'm feeling so down about this challenge...,sadness,0.98468416929245
+What an unexpected my health!,surprise,0.9264621734619141
+I'm so happy about this conversation!,joy,0.9863990545272827
+my friends makes my heart flutter!,surprise,0.49817001819610596
+This this place is completely unacceptable!,anger,0.6126180291175842
+I can't handle the fear of this memory.,fear,0.9832636713981628
+This this moment is completely unacceptable!,anger,0.7528144121170044
+I never expected this surprise to happen!,surprise,0.9693655967712402
+I cherish this challenge more than words can say.,joy,0.8785374164581299
+I'm indifferent about the weather.,disgust,0.38391223549842834
+I'm shaking with fear because of this song.,fear,0.9941628575325012
+I'm shaking with fear because of my relationship.,fear,0.9947579503059387
+this discovery has me seeing red!,surprise,0.8320547342300415
+What an unexpected my friends!,surprise,0.8373258709907532
+this book is my worst nightmare!,disgust,0.7536811828613281
+I observed this realization without much reaction.,disgust,0.7768495678901672
+This this event scares me to death!,fear,0.9723114371299744
+this conversation happened as expected.,neutral,0.7111818790435791
+This is the best day ever because of this memory!,joy,0.7151122093200684
+I can't sleep because I'm so scared of my job.,fear,0.9925634264945984
+This my job is neither good nor bad.,joy,0.5751956701278687
+My soul is filled with love because of these changes.,joy,0.49117231369018555
+this event doesn't affect me much.,neutral,0.6762285828590393
+My blood is boiling because of this event!,anger,0.9917824268341064
+This is the best day ever because of the past!,joy,0.7596080303192139
+What an unexpected this food!,surprise,0.9215459823608398
+This this achievement brings me so much happiness!,joy,0.986299455165863
+the past makes me feel ecstatic!,joy,0.9895385503768921
+my finances is making me feel so lonely.,sadness,0.9907779693603516
+I'm flabbergasted by this situation!,surprise,0.94759601354599
+the past doesn't affect me much.,neutral,0.7585788369178772
+this decision is making me feel so lonely.,sadness,0.9799041748046875
+this discovery is my worst nightmare!,disgust,0.6914102435112
+Wow! I can't believe this achievement happened!,surprise,0.9787842631340027
+I can't handle the fear of the weather.,fear,0.986474335193634
+My jaw dropped when I saw my relationship!,surprise,0.6085594296455383
+I'm astonished by this movie!,surprise,0.9767871499061584
+I'm so happy about this song!,joy,0.9807330369949341
+this movie has me seeing red!,surprise,0.7313038110733032
+I'm in the depths of despair because of this place.,fear,0.8984875679016113
+My affection for this memory grows every day.,joy,0.623540461063385
+This is the best day ever because of my job!,joy,0.938513457775116
+I'm so mad I can't even think straight about my relationship!,anger,0.8694735765457153
+My love for this opportunity knows no bounds.,joy,0.9207803010940552
+I'm overwhelmed with sorrow about this discovery.,sadness,0.42338061332702637
+This my finances came out of nowhere!,surprise,0.9174664616584778
+This is the best day ever because of the future!,joy,0.816429615020752
+I'm completely shocked by this discovery!,surprise,0.9776905179023743
+How dare they this failure!,anger,0.9833202958106995
+I'm completely enamored with this failure!,anger,0.7088040113449097
+This my relationship is completely unacceptable!,anger,0.8595867156982422
+My affection for my relationship grows every day.,joy,0.6360825896263123
+my family makes my heart flutter!,fear,0.44627970457077026
+I'm thrilled beyond words about this event!,joy,0.9525929689407349
+I'm so mad I can't even think straight about my job!,anger,0.8553547859191895
+I'm enraged by this food!,anger,0.9853544235229492
+I observed this decision without much reaction.,disgust,0.7057458162307739
+this place is my worst nightmare!,disgust,0.7940683364868164
+I'm so happy about this event!,joy,0.982719898223877
+What an unexpected this surprise!,surprise,0.9462518692016602
+the weather is my worst nightmare!,fear,0.5023379325866699
+What an unexpected this situation!,surprise,0.9606860876083374
+I'm flabbergasted by this song!,surprise,0.9279127717018127
+This this memory is completely unacceptable!,anger,0.5535905361175537
+This this moment has left me heartbroken.,sadness,0.987080991268158
+This this conversation brings me so much happiness!,joy,0.9872428178787231
+This my health is completely unacceptable!,fear,0.3949817717075348
+I can't stop crying about my job.,sadness,0.9656616449356079
+I'm feeling so down about this gift...,sadness,0.9852783679962158
+this gift has me seeing red!,joy,0.6328409910202026
+My heart aches because of this food.,sadness,0.923682689666748
+I noticed my relationship today.,surprise,0.6251083016395569
+My soul is filled with love because of the future.,sadness,0.5502386093139648
+this moment makes me feel ecstatic!,joy,0.9839881062507629
+This my family has left me heartbroken.,sadness,0.9877607822418213
+This this discovery has me feeling blue.,sadness,0.8850218653678894
+I observed the future without much reaction.,disgust,0.6398571133613586
+I observed this decision without much reaction.,disgust,0.7057458162307739
+I can't sleep because I'm so scared of this conversation.,fear,0.9896016716957092
+My jaw dropped when I saw this place!,surprise,0.8633989691734314
+this moment makes my heart flutter!,fear,0.6690599322319031
+My soul is filled with love because of these changes.,joy,0.49117231369018555
+I'm so mad I can't even think straight about this conversation!,anger,0.8210724592208862
+This the future makes me so angry I could scream!,anger,0.9865664839744568
+I can't stop smiling about this place!,joy,0.9686564207077026
+I never expected the past to happen!,surprise,0.9233120083808899
+I'm astonished by this surprise!,surprise,0.9795486927032471
+I'm overwhelmed with sorrow about this decision.,sadness,0.6575659513473511
+There's nothing special about this gift.,neutral,0.6746363639831543
+I'm boiling with rage because of my finances.,anger,0.9924296736717224
+Wow! I can't believe this realization happened!,surprise,0.9771826863288879
+This is the best day ever because of this conversation!,joy,0.7513810396194458
+I'm paralyzed with fear about this conversation.,fear,0.9880622625350952
+What an unexpected my job!,surprise,0.8970056176185608
+this food is the love of my life!,joy,0.8081070184707642
+I'm absolutely furious about my job!,anger,0.9846396446228027
+this challenge is making me feel so lonely.,sadness,0.9833252429962158
+I'm completely shocked by the weather!,surprise,0.979308545589447
+This this gift brings me so much happiness!,joy,0.9831066131591797
+This this event has left me heartbroken.,sadness,0.9873408675193787
+I can't handle the fear of this movie.,fear,0.9895418882369995
+my finances happened as expected.,surprise,0.7389759421348572
+this place happened as expected.,neutral,0.5588750243186951
+this event is the love of my life!,joy,0.6579935550689697
+My jaw dropped when I saw this challenge!,surprise,0.9071876406669617
+I'm feeling so down about my job...,sadness,0.9884322285652161
+I'm indifferent about this memory.,disgust,0.6118552684783936
+I never expected this realization to happen!,surprise,0.9382812976837158
+This my friends makes me so angry I could scream!,anger,0.982488751411438
+This this opportunity is quite ordinary.,surprise,0.6224938035011292
+Wow! I can't believe this surprise happened!,surprise,0.9793016910552979
+I'm grieving over my health.,sadness,0.980119526386261
+This the past makes me so angry I could scream!,anger,0.9855420589447021
+I noticed this food today.,neutral,0.5564126968383789
+This is the best day ever because of this book!,joy,0.7592572569847107
+My heart aches because of this realization.,sadness,0.9408273696899414
+I'm so happy about the weather!,joy,0.98215252161026
+I adore this memory with all my heart!,joy,0.9783015251159668
+This this discovery is completely unacceptable!,anger,0.5693399906158447
+my finances left me speechless!,surprise,0.5663047432899475
+I observed this food without much reaction.,disgust,0.976306140422821
+This this failure scares me to death!,fear,0.9801400303840637
+I'm overwhelmed with sorrow about these changes.,sadness,0.633518397808075
+this achievement makes my heart flutter!,fear,0.6066622734069824
+This my friends brings me so much happiness!,joy,0.9843001961708069
+My heart races whenever I think about this food.,surprise,0.5270037055015564
+this song makes me feel ecstatic!,joy,0.982266366481781
+I'm in the depths of despair because of my family.,fear,0.9334307909011841
+I'm overwhelmed with sorrow about this decision.,sadness,0.6575659513473511
+I'm paralyzed with fear about this memory.,fear,0.9839782118797302
+What an unexpected this movie!,surprise,0.9059782028198242
+this opportunity is the love of my life!,joy,0.8190705180168152
+My heart aches because of my health.,sadness,0.962648332118988
+This the news is quite ordinary.,neutral,0.5057480931282043
+my finances left me speechless!,surprise,0.5663047432899475
+What an unexpected my family!,surprise,0.8865463733673096
+this achievement is just normal.,neutral,0.7816938161849976
+I'm indifferent about the weather.,disgust,0.38391223549842834
+I'm so happy about these changes!,joy,0.9809271097183228
+I'm thinking about this situation.,neutral,0.398027628660202
+This my relationship makes me so angry I could scream!,anger,0.9863550066947937
+I'm grieving over this song.,sadness,0.9820867776870728
+I'm grieving over my family.,sadness,0.9821715950965881
+I feel such deep love for my family.,joy,0.9683466553688049
+This this discovery is quite ordinary.,surprise,0.7015936374664307
+this conversation happened as expected.,neutral,0.7111818790435791
+I'm astonished by my relationship!,surprise,0.9738715291023254
+I feel such deep love for this discovery.,joy,0.9775872826576233
+My heart races whenever I think about this challenge.,fear,0.5046579241752625
+This my friends is completely unacceptable!,anger,0.7151954770088196
+this decision makes me feel ecstatic!,joy,0.9820386171340942
+I'm enraged by these changes!,anger,0.9878843426704407
+How dare they this song!,anger,0.9812430739402771
+this situation doesn't affect me much.,neutral,0.8061620593070984
+the weather makes me feel ecstatic!,joy,0.9906181693077087
+my friends is making me feel so lonely.,sadness,0.9892387390136719
+this realization happened as expected.,surprise,0.6621918678283691
+I'm grieving over this failure.,sadness,0.9858042001724243
+I feel such deep love for my job.,joy,0.9695786237716675
+my friends is the love of my life!,joy,0.7342250347137451
+I'm grieving over the future.,sadness,0.9789930582046509
+I'm grieving over my health.,sadness,0.980119526386261
+I adore this realization with all my heart!,joy,0.9782372117042542
+How dare they these changes!,anger,0.9822028875350952
+this opportunity is making me livid!,anger,0.984745442867279
+I'm completely enamored with this song!,joy,0.9355695247650146
+My love for my job knows no bounds.,joy,0.8543082475662231
+I'm astonished by this conversation!,surprise,0.9735251069068909
+My affection for this decision grows every day.,joy,0.6335411667823792
+I feel such deep love for this book.,joy,0.9569947123527527
+I'm so happy about my health!,joy,0.9826199412345886
+this place makes my heart flutter!,surprise,0.5357740521430969
+I'm so mad I can't even think straight about this gift!,anger,0.8425242900848389
+My love for this situation knows no bounds.,sadness,0.6508436799049377
+this conversation is the love of my life!,joy,0.6115540266036987
+this song is my worst nightmare!,disgust,0.7088855504989624
+I'm feeling so down about this book...,sadness,0.9822046160697937
+My jaw dropped when I saw my finances!,surprise,0.7711827158927917
+this challenge took me completely by surprise!,surprise,0.9535461664199829
+This these changes brings me so much happiness!,joy,0.9841088652610779
+I'm absolutely furious about the future!,anger,0.983767032623291
+I'm paralyzed with fear about this place.,fear,0.990568220615387
+I'm grieving over this situation.,sadness,0.9820047616958618
+these changes is my worst nightmare!,disgust,0.670417845249176
+This this achievement brings me so much happiness!,joy,0.986299455165863
+I'm flabbergasted by this situation!,surprise,0.94759601354599
+What an unexpected this challenge!,surprise,0.9412407875061035
+this food doesn't affect me much.,neutral,0.8604295253753662
+How dare they my finances!,anger,0.9875571727752686
+my finances happened as expected.,surprise,0.7389759421348572
+this opportunity is my worst nightmare!,fear,0.5576958060264587
+My jaw dropped when I saw this book!,surprise,0.9059977531433105
+this movie left me speechless!,surprise,0.7023347020149231
+I'm absolutely furious about this movie!,anger,0.9823707342147827
+This my job makes me so angry I could scream!,anger,0.9854427576065063
+I'm terrified of my family!,fear,0.9936317801475525
+My love for this moment knows no bounds.,joy,0.7925871014595032
+I'm boiling with rage because of this decision.,anger,0.9924847483634949
+I'm thinking about my relationship.,fear,0.3527171313762665
+I adore the past with all my heart!,joy,0.965824544429779
+this discovery is making me livid!,anger,0.9837204217910767
+This this book brings me so much happiness!,joy,0.9877614974975586
+I'm in the depths of despair because of this situation.,fear,0.9138058423995972
+This my relationship is quite ordinary.,neutral,0.6788064241409302
+I can't handle the fear of this opportunity.,fear,0.9867421984672546
+The thought of this conversation fills me with dread.,fear,0.9876534342765808
+I feel such deep love for this surprise.,surprise,0.5570670962333679
+How dare they this song!,anger,0.9812430739402771
+I'm in the depths of despair because of this movie.,fear,0.8661922216415405
+I'm enraged by this situation!,anger,0.9857019186019897
+The thought of this conversation fills me with dread.,fear,0.9876534342765808
+I'm enraged by the news!,anger,0.9874466061592102
+I'm astonished by my finances!,surprise,0.97633957862854
+I'm boiling with rage because of the news.,anger,0.9926387071609497
+My heart is full of joy because of my health.,joy,0.9894606471061707
+I observed this opportunity without much reaction.,disgust,0.4869861900806427
+There's nothing special about this food.,neutral,0.6497548222541809
+I'm completely shocked by this gift!,surprise,0.9812299013137817
+I'm over the moon about this song!,surprise,0.5176523327827454
+This these changes has left me heartbroken.,sadness,0.9870147705078125
+This this food has me feeling blue.,sadness,0.8783144950866699
+I'm completely shocked by this gift!,surprise,0.9812299013137817
+I cherish this event more than words can say.,joy,0.8846370577812195
+I'm enraged by this opportunity!,anger,0.9856448173522949
+the future is making me livid!,anger,0.9862896800041199
+I'm flabbergasted by my relationship!,surprise,0.8840179443359375
+This is the best day ever because of the weather!,joy,0.8841511011123657
+My love for this achievement knows no bounds.,joy,0.9359084367752075
+I'm overwhelmed with sorrow about this movie.,sadness,0.7598693370819092
+My love for the news knows no bounds.,joy,0.9215872883796692
+Tears won't stop falling because of this food.,sadness,0.5032622218132019
+this opportunity took me completely by surprise!,surprise,0.949096143245697
+I'm overwhelmed with sorrow about this movie.,sadness,0.7598693370819092
+This my finances is completely unacceptable!,anger,0.7863985300064087
+I'm thinking about this food.,joy,0.35943886637687683
+My heart aches because of this challenge.,sadness,0.947903573513031
+I'm head over heels for the past!,anger,0.3013427257537842
+I'm indifferent about this place.,disgust,0.8024829030036926
+My heart races whenever I think about this surprise.,surprise,0.9752991199493408
+This this conversation is quite ordinary.,neutral,0.6551217436790466
+I'm completely shocked by this conversation!,surprise,0.9762430787086487
+I'm feeling so down about this surprise...,surprise,0.9743971228599548
+I'm in the depths of despair because of this conversation.,fear,0.9102312922477722
+I'm so happy about this opportunity!,joy,0.9863651990890503
+Tears won't stop falling because of this movie.,sadness,0.7738799452781677
+I'm thrilled beyond words about this opportunity!,joy,0.9628468751907349
+I'm terrified of my health!,fear,0.9930145740509033
+I'm in the depths of despair because of this achievement.,fear,0.8284624218940735
+My heart is full of joy because of my job.,joy,0.9920454025268555
+I cherish this achievement more than words can say.,joy,0.8988310694694519
+This this decision has left me heartbroken.,sadness,0.9874188303947449
+My blood is boiling because of this challenge!,anger,0.9929531216621399
+this discovery has me seeing red!,surprise,0.8320547342300415
+I'm absolutely furious about this moment!,anger,0.9833778142929077
+I'm in the depths of despair because of this surprise.,fear,0.9218175411224365
+I'm flabbergasted by the news!,surprise,0.9287217855453491
+My anxiety about this food is overwhelming.,fear,0.9906283020973206
+I'm feeling so down about this moment...,sadness,0.9754642248153687
+I can't handle the fear of this conversation.,fear,0.9827210307121277
+There's nothing special about this surprise.,surprise,0.9662549495697021
+I'm feeling so down about the weather...,sadness,0.9838491678237915
+I'm enraged by this challenge!,anger,0.986743688583374
+My anxiety about this gift is overwhelming.,fear,0.9910059571266174
+I can't sleep because I'm so scared of this situation.,fear,0.990213930606842
+I feel such deep love for this surprise.,surprise,0.5570670962333679
+I'm astonished by these changes!,surprise,0.9759308695793152
+I'm completely shocked by my friends!,surprise,0.978669285774231
+I'm terrified of this conversation!,fear,0.9906275272369385
+I'm thrilled beyond words about this book!,joy,0.9547426700592041
+this book is making me livid!,anger,0.9802032709121704
+the weather makes my heart flutter!,fear,0.6528301239013672
+My heart is full of joy because of this conversation.,joy,0.9924938678741455
+I'm indifferent about this movie.,disgust,0.7249715924263
+I'm so mad I can't even think straight about this event!,anger,0.8306689262390137
+I'm flabbergasted by these changes!,surprise,0.9505196809768677
+I feel absolutely delighted by this book.,joy,0.9905923008918762
+This this food brings me so much happiness!,joy,0.9870657920837402
+My soul is filled with love because of this surprise.,surprise,0.7688953280448914
+This this food has me feeling blue.,sadness,0.8783144950866699
+I'm enraged by this discovery!,anger,0.9873379468917847
+I'm enraged by this food!,anger,0.9853544235229492
+My heart aches because of this failure.,sadness,0.9511446356773376
+I'm so mad I can't even think straight about this book!,anger,0.8388785719871521
+I'm grieving over my friends.,sadness,0.9830183982849121
+I adore this conversation with all my heart!,joy,0.9784843325614929
+My affection for this opportunity grows every day.,joy,0.718239426612854
+This is the best day ever because of my job!,joy,0.938513457775116
+I'm astonished by the future!,surprise,0.9747061729431152
+This this surprise scares me to death!,fear,0.6853601336479187
+This the news is neither good nor bad.,neutral,0.424945205450058
+What a wonderful my relationship we're experiencing!,joy,0.938011109828949
+This this surprise has me feeling blue.,surprise,0.8365910649299622
+I'm so happy about this opportunity!,joy,0.9863651990890503
+My soul is filled with love because of this achievement.,joy,0.8249905705451965
+This this food scares me to death!,fear,0.9554722905158997
+this failure is making me livid!,anger,0.9847925901412964
+I'm overwhelmed with sorrow about this situation.,sadness,0.770540714263916
+My affection for this book grows every day.,joy,0.7711234092712402
+Tears won't stop falling because of this failure.,sadness,0.8434858918190002
+I never expected my job to happen!,surprise,0.9071819186210632
+I can't stop smiling about this discovery!,joy,0.9662150144577026
+I'm thinking about the news.,neutral,0.5503833889961243
+My heart aches because of my family.,sadness,0.9787889719009399
+This this failure has left me heartbroken.,sadness,0.98592209815979
+the weather is just normal.,neutral,0.7960291504859924
+My anxiety about the news is overwhelming.,fear,0.9925186634063721
+The thought of my friends fills me with dread.,fear,0.9924335479736328
+I'm completely shocked by this movie!,surprise,0.9782202243804932
+I'm head over heels for this achievement!,neutral,0.2971092760562897
+this song makes my heart flutter!,fear,0.4954410791397095
+this movie is my worst nightmare!,disgust,0.754046618938446
+I cherish the weather more than words can say.,joy,0.8665465116500854
+I'm astonished by this moment!,surprise,0.9751478433609009
+I adore this event with all my heart!,joy,0.9846643805503845
+Wow! I can't believe this memory happened!,surprise,0.9776479005813599
+I'm terrified of this memory!,fear,0.9913938641548157
+I'm shaking with fear because of this memory.,fear,0.9939509630203247
+I'm terrified of these changes!,fear,0.9910210967063904
+This this discovery came out of nowhere!,surprise,0.9152471423149109
+this place doesn't affect me much.,disgust,0.5062622427940369
+I feel absolutely delighted by this movie.,joy,0.9904091358184814
+this challenge is making me feel so lonely.,sadness,0.9833252429962158
+I'm overwhelmed with sorrow about my job.,sadness,0.8509005308151245
+I'm feeling so down about my family...,sadness,0.9889342188835144
+I'm flabbergasted by this discovery!,surprise,0.937150776386261
+I'm absolutely furious about this decision!,anger,0.9822579026222229
+I'm overwhelmed with sorrow about this event.,sadness,0.5241562128067017
+What a wonderful this situation we're experiencing!,joy,0.866635799407959
+this movie is making me feel so lonely.,sadness,0.9832062721252441
+What a wonderful this failure we're experiencing!,joy,0.7141249179840088
+This the news came out of nowhere!,surprise,0.9165553450584412
+There's nothing special about this decision.,neutral,0.8285106420516968
+my health happened as expected.,sadness,0.4101063013076782
+This is the best day ever because of my job!,joy,0.938513457775116
+I'm flabbergasted by this discovery!,surprise,0.937150776386261
+My heart is full of joy because of the future.,joy,0.9890450239181519
+this realization makes me feel ecstatic!,joy,0.9849029779434204
+I'm indifferent about this surprise.,surprise,0.8374596238136292
+There's nothing special about my family.,neutral,0.8197142481803894
+My heart races whenever I think about this moment.,fear,0.47385790944099426
+My heart races whenever I think about this situation.,fear,0.5330538153648376
+I feel such deep love for my family.,joy,0.9683466553688049
+I never expected this discovery to happen!,surprise,0.9478522539138794
+this failure is making me livid!,anger,0.9847925901412964
+Tears won't stop falling because of my relationship.,sadness,0.8728339672088623
+What a wonderful these changes we're experiencing!,joy,0.8573887944221497
+Wow! I can't believe this book happened!,surprise,0.9781855344772339
+Wow! I can't believe this book happened!,surprise,0.9781855344772339
+I'm completely shocked by this failure!,surprise,0.9759963750839233
+This my family makes me so angry I could scream!,anger,0.9846274256706238
+My heart is full of joy because of this event.,joy,0.9918143153190613
+I'm paralyzed with fear about this food.,fear,0.9883472323417664
+How dare they this food!,anger,0.973212718963623
+I'm feeling so down about this food...,sadness,0.9758913516998291
+I can't stop smiling about this situation!,joy,0.9457380771636963
+I'm flabbergasted by my finances!,surprise,0.9387102723121643
+this opportunity left me speechless!,surprise,0.6206632852554321
+my job makes my heart flutter!,fear,0.5230951309204102
+I'm thrilled beyond words about my family!,joy,0.9653069376945496
+I'm feeling so down about this place...,sadness,0.9754659533500671
+the past is the love of my life!,anger,0.3718547821044922
+I'm so happy about this discovery!,joy,0.9856607913970947
+I feel absolutely delighted by this situation.,joy,0.9909047484397888
+I'm boiling with rage because of my family.,anger,0.9915832877159119
+my family is the love of my life!,joy,0.8539924621582031
+this decision is making me livid!,anger,0.9837318658828735
+My heart races whenever I think about the future.,fear,0.601912796497345
+There's nothing special about this situation.,neutral,0.7989336848258972
+my health happened as expected.,sadness,0.4101063013076782
+I'm feeling so down about this surprise...,surprise,0.9743971228599548
+This this decision brings me so much happiness!,joy,0.9851699471473694
+My affection for this event grows every day.,joy,0.636699914932251
+I'm indifferent about this realization.,disgust,0.5953177213668823
+Wow! I can't believe my friends happened!,surprise,0.9787324070930481
+I can't handle the fear of the weather.,fear,0.986474335193634
+How dare they this discovery!,anger,0.9795954823493958
+This this book brings me so much happiness!,joy,0.9877614974975586
+this realization has me seeing red!,surprise,0.8214276432991028
+My anxiety about this place is overwhelming.,fear,0.9925589561462402
+this achievement is making me livid!,anger,0.9829559326171875
+I'm head over heels for this conversation!,surprise,0.3388505280017853
+this memory happened as expected.,neutral,0.7180864214897156
+My affection for my finances grows every day.,joy,0.565290093421936
+I'm feeling so down about this gift...,sadness,0.9852783679962158
+I'm boiling with rage because of this failure.,anger,0.9928556680679321
+I'm in the depths of despair because of my health.,fear,0.8661669492721558
+I'm in the depths of despair because of this achievement.,fear,0.8284624218940735
+My blood is boiling because of these changes!,anger,0.9918311238288879
+I can't sleep because I'm so scared of my relationship.,fear,0.9913109540939331
+My affection for this place grows every day.,joy,0.7352351546287537
+My affection for these changes grows every day.,joy,0.42675545811653137
+This this song has left me heartbroken.,sadness,0.9871928691864014
+I can't stop smiling about the news!,joy,0.9824487566947937
+I'm indifferent about this realization.,disgust,0.5953177213668823
+My blood is boiling because of this challenge!,anger,0.9929531216621399
+Tears won't stop falling because of these changes.,sadness,0.7134963870048523
+I can't stop crying about this event.,sadness,0.8916816115379333
+I'm head over heels for this gift!,surprise,0.3422313630580902
+I noticed this moment today.,surprise,0.7985544800758362
+My heart is full of joy because of this moment.,joy,0.9902799725532532
+I observed the past without much reaction.,disgust,0.7400106191635132
+this situation took me completely by surprise!,surprise,0.9634377360343933
+Tears won't stop falling because of this event.,sadness,0.7495557069778442
+these changes makes my heart flutter!,surprise,0.48007720708847046
+I'm shaking with fear because of this achievement.,fear,0.9940760135650635
+I can't sleep because I'm so scared of this movie.,fear,0.989875078201294
+I'm boiling with rage because of this situation.,anger,0.991359531879425
+I'm grieving over this place.,sadness,0.9823837280273438
+My affection for this situation grows every day.,disgust,0.43740156292915344
+I can't handle the fear of this realization.,fear,0.9874055981636047
+How dare they this memory!,anger,0.9815194606781006
+I'm boiling with rage because of my family.,anger,0.9915832877159119
+this movie is just normal.,neutral,0.900551438331604
+I'm paralyzed with fear about this achievement.,fear,0.9874536991119385
+My anxiety about this challenge is overwhelming.,fear,0.9912340044975281
+I feel absolutely delighted by this failure.,joy,0.9876556992530823
+Tears won't stop falling because of my friends.,sadness,0.8917626738548279
+I can't sleep because I'm so scared of this song.,fear,0.9897040724754333
+I can't sleep because I'm so scared of the weather.,fear,0.9903545379638672
+My affection for this failure grows every day.,disgust,0.5477195978164673
+Wow! I can't believe my relationship happened!,surprise,0.9773809909820557
+My anxiety about this book is overwhelming.,fear,0.9925987720489502
+I'm head over heels for this failure!,anger,0.6190162301063538
+my finances has me seeing red!,surprise,0.6796651482582092
+the weather doesn't affect me much.,neutral,0.6068699955940247
+I'm so mad I can't even think straight about the news!,anger,0.8252471685409546
+My jaw dropped when I saw this achievement!,surprise,0.9358760714530945
+this achievement took me completely by surprise!,surprise,0.9615349769592285
+I'm absolutely furious about this food!,anger,0.9816229343414307
+I cherish my relationship more than words can say.,joy,0.8325970768928528
+My heart races whenever I think about my finances.,fear,0.5290084481239319
+I can't handle the fear of my friends.,fear,0.9909501671791077
+the future has me seeing red!,surprise,0.6074320077896118
+I can't handle the fear of this memory.,fear,0.9832636713981628
+this place is making me livid!,anger,0.9797858595848083
+I'm thinking about this opportunity.,joy,0.9265684485435486
+How dare they my job!,anger,0.9891932606697083
+There's nothing special about this situation.,neutral,0.7989336848258972
+I'm over the moon about this situation!,surprise,0.4578346610069275
+I'm feeling so down about my relationship...,sadness,0.9812854528427124
+I adore this gift with all my heart!,joy,0.9806786179542542
+How dare they this song!,anger,0.9812430739402771
+I'm completely enamored with my finances!,joy,0.44537410140037537
+this moment left me speechless!,fear,0.5000236630439758
+I'm feeling so down about this memory...,sadness,0.9589424729347229
+I'm feeling so down about this song...,sadness,0.9780831933021545
+How dare they this surprise!,anger,0.6198326349258423
+How dare they my job!,anger,0.9891932606697083
+I'm boiling with rage because of the news.,anger,0.9926387071609497
+My jaw dropped when I saw this event!,surprise,0.8949881792068481
+I'm thrilled beyond words about this moment!,joy,0.9565707445144653
+This my relationship scares me to death!,fear,0.9778203368186951
+I'm completely enamored with this event!,joy,0.9580034613609314
+this surprise is just normal.,surprise,0.9689756035804749
+I feel absolutely delighted by my friends.,joy,0.9908556938171387
+I'm grieving over my relationship.,sadness,0.9813242554664612
+Wow! I can't believe this conversation happened!,surprise,0.9773099422454834
+I can't stop smiling about this achievement!,joy,0.9729048013687134
+this situation makes my heart flutter!,fear,0.4457642436027527
+I'm absolutely furious about this realization!,anger,0.9826743006706238
+the future is making me feel so lonely.,sadness,0.983095109462738
+This this failure makes me so angry I could scream!,anger,0.9893054962158203
+How dare they this book!,anger,0.979478120803833
+Tears won't stop falling because of the past.,sadness,0.7242333889007568
+I'm shaking with fear because of the future.,fear,0.9943515062332153
+My heart is full of joy because of this challenge.,joy,0.9905691146850586
+this song is making me feel so lonely.,sadness,0.9817237854003906
+This these changes makes me so angry I could scream!,anger,0.9880498051643372
+I'm head over heels for my finances!,anger,0.5569843649864197
+I'm indifferent about this realization.,disgust,0.5953177213668823
+This this surprise came out of nowhere!,surprise,0.9691605567932129
+My soul is filled with love because of this memory.,sadness,0.4423346221446991
+I adore my job with all my heart!,joy,0.9824458360671997
+this gift is making me livid!,anger,0.97407466173172
+I never expected this conversation to happen!,surprise,0.9550881385803223
+I cherish this moment more than words can say.,joy,0.822224497795105
+I'm grieving over this surprise.,surprise,0.9266761541366577
+This the news has left me heartbroken.,sadness,0.9867838621139526
+My love for this food knows no bounds.,joy,0.9378967881202698
+I can't stop crying about this memory.,sadness,0.8577601909637451
+My anxiety about this failure is overwhelming.,fear,0.9912699460983276
+My soul is filled with love because of my job.,sadness,0.6694520711898804
+I feel such deep love for this gift.,joy,0.9722211360931396
+I'm flabbergasted by this failure!,surprise,0.9577464461326599
+the future is making me feel so lonely.,sadness,0.983095109462738
+I'm completely enamored with this movie!,joy,0.9510903358459473
+My anxiety about this situation is overwhelming.,fear,0.9912972450256348
+I'm enraged by the future!,anger,0.9858885407447815
+I can't stop crying about this situation.,sadness,0.8252795934677124
+I observed my relationship without much reaction.,disgust,0.8802010416984558
+Tears won't stop falling because of this opportunity.,sadness,0.796338677406311
+I'm head over heels for this event!,surprise,0.36003968119621277
+There's nothing special about this moment.,neutral,0.6586812734603882
+This is the best day ever because of my health!,joy,0.9368817806243896
+I'm enraged by my finances!,anger,0.9859936237335205
+this movie is making me livid!,anger,0.9790557026863098
+My heart races whenever I think about this book.,fear,0.4228494465351105
+This this discovery came out of nowhere!,surprise,0.9152471423149109
+my health is the love of my life!,joy,0.8804454803466797
+This this song brings me so much happiness!,joy,0.9850988388061523
+This this failure is completely unacceptable!,anger,0.7942463159561157
+my family doesn't affect me much.,sadness,0.8322721719741821
+My soul is filled with love because of these changes.,joy,0.49117231369018555
+this movie is making me livid!,anger,0.9790557026863098
+This my family brings me so much happiness!,joy,0.9884379506111145
+these changes is making me livid!,anger,0.9798633456230164
+this decision happened as expected.,neutral,0.655677318572998
+My affection for this memory grows every day.,joy,0.623540461063385
+Tears won't stop falling because of the weather.,sadness,0.8911266326904297
+What an unexpected this memory!,surprise,0.9611039161682129
+My jaw dropped when I saw the weather!,surprise,0.8259392380714417
+I'm so happy about the past!,joy,0.9825311303138733
+My heart is full of joy because of this food.,joy,0.990281343460083
+I can't sleep because I'm so scared of the future.,fear,0.9907644987106323
+My heart races whenever I think about my friends.,fear,0.3619554936885834
+this decision is just normal.,neutral,0.9294841289520264
+There's nothing special about this moment.,neutral,0.6586812734603882
+This this realization brings me so much happiness!,joy,0.9863155484199524
+this food left me speechless!,surprise,0.7013851404190063
+I can't handle the fear of this surprise.,surprise,0.5262566804885864
+The thought of this discovery fills me with dread.,fear,0.9880365133285522
+What an unexpected the future!,surprise,0.9314173460006714
+I adore the weather with all my heart!,joy,0.9842218160629272
+this surprise is just normal.,surprise,0.9689756035804749
+I'm so happy about this failure!,joy,0.976341962814331
+My affection for this movie grows every day.,joy,0.753058135509491
+I noticed my friends today.,surprise,0.6880720257759094
+This this song scares me to death!,fear,0.9775395393371582
+this place happened as expected.,neutral,0.5588750243186951
+My heart races whenever I think about this realization.,fear,0.4069328308105469
+My jaw dropped when I saw my relationship!,surprise,0.6085594296455383
+I feel absolutely delighted by this discovery.,joy,0.9896600246429443
+I observed my finances without much reaction.,disgust,0.6927079558372498
+My heart races whenever I think about my relationship.,fear,0.5779098868370056
+My affection for this discovery grows every day.,joy,0.7508110404014587
+I'm shaking with fear because of this moment.,fear,0.9944919347763062
+I'm thinking about my relationship.,fear,0.3527171313762665
+my finances took me completely by surprise!,surprise,0.9635319113731384
+my friends makes me feel ecstatic!,joy,0.9859243035316467
+This this achievement is completely unacceptable!,anger,0.6707109212875366
+this failure doesn't affect me much.,neutral,0.5103588700294495
+There's nothing special about my health.,neutral,0.8298311829566956
+this moment is my worst nightmare!,disgust,0.6148384809494019
+the news happened as expected.,surprise,0.6450908780097961
+My jaw dropped when I saw these changes!,surprise,0.8969254493713379
+The thought of this book fills me with dread.,fear,0.9902660250663757
+This this memory brings me so much happiness!,joy,0.9863430261611938
+I'm feeling so down about the news...,sadness,0.9845364689826965
+I'm thrilled beyond words about my friends!,joy,0.9503920674324036
+this song is making me feel so lonely.,sadness,0.9817237854003906
+I never expected these changes to happen!,surprise,0.9511993527412415
+I'm absolutely furious about my health!,anger,0.9844179153442383
+this failure left me speechless!,surprise,0.43652480840682983
+this situation is just normal.,neutral,0.9101191163063049
+I can't stop smiling about this event!,joy,0.975547730922699
+My heart races whenever I think about my relationship.,fear,0.5779098868370056
+I'm absolutely furious about this movie!,anger,0.9823707342147827
+My affection for this gift grows every day.,joy,0.7980471253395081
+this realization took me completely by surprise!,surprise,0.9609036445617676
+How dare they my finances!,anger,0.9875571727752686
+I'm completely shocked by the past!,surprise,0.9769154787063599
+I'm flabbergasted by this discovery!,surprise,0.937150776386261
+this moment has me seeing red!,surprise,0.7283901572227478
+this moment makes my heart flutter!,fear,0.6690599322319031
+I'm astonished by this gift!,surprise,0.978805661201477
+my finances is my worst nightmare!,fear,0.8918030261993408
+My heart is full of joy because of this movie.,joy,0.9905397891998291
+My heart is full of joy because of this place.,joy,0.9896836280822754
+My love for this discovery knows no bounds.,joy,0.9501075744628906
+I can't sleep because I'm so scared of this decision.,fear,0.9914596080780029
+My soul is filled with love because of this moment.,joy,0.8117892742156982
+This this realization makes me so angry I could scream!,anger,0.9874027967453003
+This this moment is completely unacceptable!,anger,0.7528144121170044
+This this achievement came out of nowhere!,surprise,0.9307271838188171
+The thought of this food fills me with dread.,fear,0.9890025854110718
+This is the best day ever because of this conversation!,joy,0.7513810396194458
+This this decision has left me heartbroken.,sadness,0.9874188303947449
+I observed this failure without much reaction.,disgust,0.7060166597366333
+I adore this surprise with all my heart!,joy,0.7417187094688416
+My anxiety about the news is overwhelming.,fear,0.9925186634063721
+What an unexpected this movie!,surprise,0.9059782028198242
+I'm overwhelmed with sorrow about this decision.,sadness,0.6575659513473511
+I noticed this surprise today.,surprise,0.9612070918083191
+this book is making me feel so lonely.,sadness,0.9827734231948853
+This my friends has me feeling blue.,sadness,0.9191347360610962
+I cherish this surprise more than words can say.,surprise,0.49095502495765686
+I'm in the depths of despair because of this movie.,fear,0.8661922216415405
+I'm boiling with rage because of this food.,anger,0.9916170239448547
+I'm paralyzed with fear about my finances.,fear,0.9840326905250549
+I'm shaking with fear because of this memory.,fear,0.9939509630203247
+I noticed this discovery today.,surprise,0.6685721278190613
+I never expected my health to happen!,surprise,0.9119548201560974
+I'm indifferent about this realization.,disgust,0.5953177213668823
+This this achievement came out of nowhere!,surprise,0.9307271838188171
+I'm completely shocked by this achievement!,surprise,0.9791445136070251
+I'm indifferent about this food.,disgust,0.7653436064720154
+Wow! I can't believe this song happened!,surprise,0.9786084294319153
+I can't stop crying about my finances.,sadness,0.9565423130989075
+There's nothing special about this memory.,neutral,0.7845557928085327
+my job is my worst nightmare!,fear,0.8955121636390686
+this conversation is just normal.,neutral,0.9568950533866882
+My heart is full of joy because of my family.,joy,0.9912262558937073
+I can't stop smiling about this event!,joy,0.975547730922699
+Tears won't stop falling because of the future.,sadness,0.7673885226249695
+I'm completely shocked by the future!,surprise,0.9768848419189453
+I'm completely shocked by this failure!,surprise,0.9759963750839233
+This these changes makes me so angry I could scream!,anger,0.9880498051643372
+My heart races whenever I think about these changes.,surprise,0.4068969190120697
+I'm grieving over this failure.,sadness,0.9858042001724243
+This this book came out of nowhere!,surprise,0.9353391528129578
+I'm shaking with fear because of my finances.,fear,0.9946935772895813
+I'm shaking with fear because of this surprise.,fear,0.9872598648071289
+This this food scares me to death!,fear,0.9554722905158997
+I can't sleep because I'm so scared of this memory.,fear,0.9897799491882324
+I'm completely shocked by this moment!,surprise,0.9767228960990906
+I can't handle the fear of my relationship.,fear,0.9889659285545349
+My heart is full of joy because of this opportunity.,joy,0.9911779761314392
+My anxiety about the news is overwhelming.,fear,0.9925186634063721
+I'm boiling with rage because of this decision.,anger,0.9924847483634949
+The thought of the weather fills me with dread.,fear,0.9892686009407043
+I'm completely shocked by this conversation!,surprise,0.9762430787086487
+I'm so happy about this failure!,joy,0.976341962814331
+this event doesn't affect me much.,neutral,0.6762285828590393
+This this conversation is quite ordinary.,neutral,0.6551217436790466
+my family is just normal.,joy,0.6869327425956726
+What an unexpected this gift!,surprise,0.8810355067253113
+this realization doesn't affect me much.,neutral,0.46852874755859375
+There's nothing special about this achievement.,neutral,0.5954958200454712
+I'm enraged by this book!,anger,0.986189067363739
+I'm feeling so down about this movie...,sadness,0.9831594228744507
+Tears won't stop falling because of this surprise.,surprise,0.8088459968566895
+I'm feeling so down about this place...,sadness,0.9754659533500671
+this song doesn't affect me much.,neutral,0.5537134408950806
+This the weather came out of nowhere!,surprise,0.9038140177726746
+I'm indifferent about my job.,disgust,0.521590530872345
+I'm shaking with fear because of this place.,fear,0.9943806529045105
+this gift is the love of my life!,joy,0.7914459109306335
+my job left me speechless!,surprise,0.5207440853118896
+I'm over the moon about this song!,surprise,0.5176523327827454
+Tears won't stop falling because of the weather.,sadness,0.8911266326904297
+I adore this discovery with all my heart!,joy,0.98390793800354
+This this memory makes me so angry I could scream!,anger,0.986786425113678
+I observed this conversation without much reaction.,disgust,0.918975830078125
+My blood is boiling because of this book!,anger,0.9920627474784851
+I never expected this conversation to happen!,surprise,0.9550881385803223
+My jaw dropped when I saw my health!,surprise,0.7877359390258789
+the news doesn't affect me much.,neutral,0.44698721170425415
+this moment took me completely by surprise!,surprise,0.9576085805892944
+the future took me completely by surprise!,surprise,0.9594297409057617
+My affection for this challenge grows every day.,joy,0.41378918290138245
+I'm boiling with rage because of this song.,anger,0.990496039390564
+my friends left me speechless!,surprise,0.6102201342582703
+I'm grieving over this surprise.,surprise,0.9266761541366577
+I'm overwhelmed with sorrow about this event.,sadness,0.5241562128067017
+How dare they this food!,anger,0.973212718963623
+What a wonderful this moment we're experiencing!,joy,0.9196905493736267
+I'm absolutely furious about this decision!,anger,0.9822579026222229
+I'm thrilled beyond words about the weather!,joy,0.9582988619804382
+this failure is just normal.,neutral,0.46977633237838745
+I'm head over heels for my health!,anger,0.4113066792488098
+There's nothing special about this event.,neutral,0.7581803798675537
+The thought of this discovery fills me with dread.,fear,0.9880365133285522
+I can't stop crying about my health.,sadness,0.9484135508537292
+this book is my worst nightmare!,disgust,0.7536811828613281
+My heart aches because of the past.,sadness,0.9433392286300659
+this gift is the love of my life!,joy,0.7914459109306335
+I'm absolutely furious about this surprise!,anger,0.9252762198448181
+What an unexpected this song!,surprise,0.9310981035232544
+This my finances brings me so much happiness!,joy,0.9843547344207764
+my family is making me feel so lonely.,sadness,0.99068683385849
+There's nothing special about the past.,neutral,0.9341537356376648
+I'm paralyzed with fear about this food.,fear,0.9883472323417664
+I'm grieving over this decision.,sadness,0.9822832942008972
+this opportunity left me speechless!,surprise,0.6206632852554321
+There's nothing special about the weather.,neutral,0.8507704734802246
+The thought of this moment fills me with dread.,fear,0.9885857701301575
+This my job brings me so much happiness!,joy,0.9860538840293884
+I'm indifferent about the past.,disgust,0.5441422462463379
+This this book came out of nowhere!,surprise,0.9353391528129578
+I'm grieving over this song.,sadness,0.9820867776870728
+this surprise makes me feel ecstatic!,joy,0.876819372177124
+I'm completely shocked by this realization!,surprise,0.9771300554275513
+My heart races whenever I think about my family.,fear,0.3022417724132538
+I'm enraged by my family!,anger,0.9870217442512512
+My soul is filled with love because of this event.,joy,0.5350610017776489
+the news took me completely by surprise!,surprise,0.9577000737190247
+this food doesn't affect me much.,neutral,0.8604295253753662
+I adore this gift with all my heart!,joy,0.9806786179542542
+my finances is my worst nightmare!,fear,0.8918030261993408
+I'm flabbergasted by this discovery!,surprise,0.937150776386261
+I'm absolutely furious about the future!,anger,0.983767032623291
+I'm so happy about this achievement!,joy,0.9825373291969299
+My anxiety about my friends is overwhelming.,fear,0.9920030832290649
+Tears won't stop falling because of this opportunity.,sadness,0.796338677406311
+I'm flabbergasted by this surprise!,surprise,0.9576088786125183
+this song makes me feel ecstatic!,joy,0.982266366481781
+My soul is filled with love because of these changes.,joy,0.49117231369018555
+This this event is quite ordinary.,surprise,0.643887460231781
+This the news is quite ordinary.,neutral,0.5057480931282043
+My heart is full of joy because of my finances.,joy,0.9904171228408813
+What an unexpected my family!,surprise,0.8865463733673096
+I'm shaking with fear because of this achievement.,fear,0.9940760135650635
+I'm thrilled beyond words about this song!,joy,0.9498364925384521
+I'm head over heels for this movie!,anger,0.31518858671188354
+My soul is filled with love because of this place.,joy,0.7848932147026062
+this event took me completely by surprise!,surprise,0.9438216090202332
+I'm completely shocked by this discovery!,surprise,0.9776905179023743
+this song has me seeing red!,surprise,0.7440282702445984
+This my job is neither good nor bad.,joy,0.5751956701278687
+I'm overwhelmed with sorrow about this conversation.,sadness,0.587959349155426
+this discovery took me completely by surprise!,surprise,0.9606321454048157
+My love for this gift knows no bounds.,joy,0.9539819955825806
+This is the best day ever because of the past!,joy,0.7596080303192139
+This this memory brings me so much happiness!,joy,0.9863430261611938
+I'm terrified of this decision!,fear,0.9920538663864136
+I adore this discovery with all my heart!,joy,0.98390793800354
+My blood is boiling because of my friends!,anger,0.9923834204673767
+I'm completely enamored with this discovery!,joy,0.9271987080574036
+I can't stop crying about this food.,sadness,0.795408308506012
+this event left me speechless!,surprise,0.6423421502113342
+I'm in the depths of despair because of this surprise.,fear,0.9218175411224365
+What a wonderful this moment we're experiencing!,joy,0.9196905493736267
+this memory has me seeing red!,surprise,0.7672606706619263
+my relationship is making me livid!,anger,0.9904453754425049
+My heart is full of joy because of this memory.,joy,0.9913467764854431
+this achievement doesn't affect me much.,neutral,0.7488043308258057
+This this song scares me to death!,fear,0.9775395393371582
+this discovery is my worst nightmare!,disgust,0.6914102435112
+this movie makes my heart flutter!,surprise,0.5539795160293579
+My heart aches because of this movie.,sadness,0.9650483131408691
+I'm over the moon about this decision!,surprise,0.44964221119880676
+the weather makes me feel ecstatic!,joy,0.9906181693077087
+Tears won't stop falling because of the past.,sadness,0.7242333889007568
+I'm indifferent about this opportunity.,disgust,0.5229787826538086
+My heart aches because of this event.,sadness,0.94234299659729
+This this food scares me to death!,fear,0.9554722905158997
+My jaw dropped when I saw this realization!,surprise,0.8753073811531067
+I'm terrified of my family!,fear,0.9936317801475525
+I can't stop smiling about my job!,joy,0.9707604646682739
+this moment is just normal.,neutral,0.8454440832138062
+This my family has left me heartbroken.,sadness,0.9877607822418213
+I feel such deep love for the weather.,joy,0.9453349113464355
+I'm absolutely furious about my finances!,anger,0.9838736653327942
+I'm overwhelmed with sorrow about the weather.,sadness,0.6724846363067627
+I'm grieving over this discovery.,sadness,0.9842615127563477
+I'm feeling so down about this situation...,sadness,0.9772914052009583
+I'm overwhelmed with sorrow about these changes.,sadness,0.633518397808075
+I'm completely shocked by this achievement!,surprise,0.9791445136070251
+this event doesn't affect me much.,neutral,0.6762285828590393
+There's nothing special about the news.,neutral,0.8679236769676208
+This my health has me feeling blue.,sadness,0.9538996815681458
+I'm completely enamored with this conversation!,joy,0.9188898801803589
+I'm boiling with rage because of my relationship.,anger,0.9922391176223755
+I'm in the depths of despair because of this gift.,fear,0.884032666683197
+I feel such deep love for this situation.,joy,0.9027340412139893
+I'm indifferent about this challenge.,disgust,0.5485082864761353
+my family has me seeing red!,surprise,0.8351881504058838
+This my friends brings me so much happiness!,joy,0.9843001961708069
+My soul is filled with love because of this situation.,sadness,0.9607641696929932
+I'm flabbergasted by this gift!,surprise,0.8295584917068481
+the future took me completely by surprise!,surprise,0.9594297409057617
+this memory has me seeing red!,surprise,0.7672606706619263
+The thought of this decision fills me with dread.,fear,0.9886541366577148
+I'm shaking with fear because of the news.,fear,0.9942865967750549
+How dare they this opportunity!,anger,0.9862416982650757
+I'm over the moon about this movie!,surprise,0.5768097639083862
+I can't sleep because I'm so scared of this realization.,fear,0.9914270639419556
+I feel such deep love for the weather.,joy,0.9453349113464355
+this food is just normal.,neutral,0.9313912391662598
+I'm thinking about my job.,fear,0.8220397233963013
+I'm astonished by this gift!,surprise,0.978805661201477
+How dare they this situation!,anger,0.9810178279876709
+I'm thrilled beyond words about this movie!,joy,0.9579065442085266
+This my health makes me so angry I could scream!,anger,0.9823353886604309
+This this food is completely unacceptable!,disgust,0.6047540903091431
+I'm enraged by the past!,anger,0.9849361777305603
+Wow! I can't believe this food happened!,surprise,0.9742082357406616
+My affection for this discovery grows every day.,joy,0.7508110404014587
+My anxiety about this surprise is overwhelming.,surprise,0.7345566153526306
+this song is the love of my life!,joy,0.802924633026123
+What an unexpected my family!,surprise,0.8865463733673096
+I'm enraged by this song!,anger,0.9860650300979614
+I'm overwhelmed with sorrow about this realization.,sadness,0.6071572303771973
+This this place has left me heartbroken.,sadness,0.9844313263893127
+My affection for this conversation grows every day.,joy,0.6196503639221191
+My blood is boiling because of this event!,anger,0.9917824268341064
+I'm feeling so down about my family...,sadness,0.9889342188835144
+My soul is filled with love because of this situation.,sadness,0.9607641696929932
+This my relationship brings me so much happiness!,joy,0.9856290221214294
+I'm enraged by my job!,anger,0.9874130487442017
+This the future brings me so much happiness!,joy,0.9851866364479065
+I cherish these changes more than words can say.,joy,0.7798869013786316
+This this song scares me to death!,fear,0.9775395393371582
+I'm completely enamored with this surprise!,surprise,0.6994028091430664
+I'm boiling with rage because of the future.,anger,0.9922173023223877
+I observed this song without much reaction.,disgust,0.8752188086509705
+What an unexpected this moment!,surprise,0.9443694353103638
+My love for this movie knows no bounds.,joy,0.9449340105056763
+I'm enraged by this gift!,anger,0.9855076670646667
+This this realization is neither good nor bad.,disgust,0.650974690914154
+What a wonderful the news we're experiencing!,joy,0.9713516235351562
+I'm paralyzed with fear about this challenge.,fear,0.988576352596283
+I'm flabbergasted by this place!,surprise,0.8994317054748535
+There's nothing special about this realization.,neutral,0.5310356616973877
+I'm terrified of this moment!,fear,0.991588294506073
+I'm shaking with fear because of the news.,fear,0.9942865967750549
+This my health has left me heartbroken.,sadness,0.9880998134613037
+This this discovery scares me to death!,fear,0.9740691781044006
+the future has me seeing red!,surprise,0.6074320077896118
+I'm completely enamored with this moment!,joy,0.8974570035934448
+I'm so mad I can't even think straight about this gift!,anger,0.8425242900848389
+this movie doesn't affect me much.,neutral,0.56978440284729
+This this surprise brings me so much happiness!,joy,0.48636338114738464
+I feel such deep love for this memory.,joy,0.9341186881065369
+I'm thinking about this failure.,neutral,0.38329121470451355
+I'm thrilled beyond words about this conversation!,joy,0.9470657110214233
+this surprise is my worst nightmare!,fear,0.3760659992694855
+My anxiety about this realization is overwhelming.,fear,0.9912295341491699
+This this decision is completely unacceptable!,anger,0.7777758240699768
+this book doesn't affect me much.,neutral,0.4855607748031616
+The thought of the past fills me with dread.,fear,0.9847822785377502
+I'm completely enamored with this moment!,joy,0.8974570035934448
+the weather is making me livid!,anger,0.9874332547187805
+this food is making me feel so lonely.,sadness,0.9759101867675781
+This this realization has left me heartbroken.,sadness,0.9860039353370667
+There's nothing special about the past.,neutral,0.9341537356376648
+My heart aches because of this opportunity.,sadness,0.9560396075248718
+I'm paralyzed with fear about my finances.,fear,0.9840326905250549
+I can't handle the fear of this book.,fear,0.9893364906311035
+I'm feeling so down about this event...,sadness,0.9820408821105957
+I'm shaking with fear because of the future.,fear,0.9943515062332153
+I'm absolutely furious about this discovery!,anger,0.9816147685050964
+This is the best day ever because of this failure!,joy,0.7876039743423462
+I never expected this food to happen!,surprise,0.9444056749343872
+This this failure has left me heartbroken.,sadness,0.98592209815979
+I can't sleep because I'm so scared of the future.,fear,0.9907644987106323
+I'm astonished by my family!,surprise,0.9764991402626038
+This this food makes me so angry I could scream!,anger,0.9874256253242493
+This my job has me feeling blue.,sadness,0.9307428002357483
+This this surprise makes me so angry I could scream!,anger,0.6412873864173889
+What a wonderful this gift we're experiencing!,joy,0.9248284101486206
+I cherish this achievement more than words can say.,joy,0.8988310694694519
+The thought of this conversation fills me with dread.,fear,0.9876534342765808
+This my job scares me to death!,fear,0.98023921251297
+I'm thrilled beyond words about this realization!,joy,0.9562969207763672
+I noticed this movie today.,surprise,0.6555511355400085
+This this situation is neither good nor bad.,disgust,0.6158469915390015
+My affection for my family grows every day.,joy,0.8862383961677551
+I'm indifferent about this song.,disgust,0.7010663747787476
+I adore this place with all my heart!,joy,0.9797183275222778
+I can't stop smiling about this food!,joy,0.9721890687942505
+My jaw dropped when I saw my relationship!,surprise,0.6085594296455383
+My blood is boiling because of the weather!,anger,0.9925798773765564
+My heart is full of joy because of these changes.,joy,0.9891491532325745
+My heart is full of joy because of these changes.,joy,0.9891491532325745
+I'm astonished by this challenge!,surprise,0.9770480394363403
+My heart aches because of this book.,sadness,0.9601933360099792
+This this situation scares me to death!,fear,0.9687447547912598
+This this surprise came out of nowhere!,surprise,0.9691605567932129
+I feel such deep love for this food.,joy,0.9400455355644226
+I'm indifferent about this place.,disgust,0.8024829030036926
+I feel such deep love for these changes.,joy,0.9315226078033447
+the news is my worst nightmare!,fear,0.7261701226234436
+this book took me completely by surprise!,surprise,0.9434071779251099
+This my relationship is completely unacceptable!,anger,0.8595867156982422
+I can't stop smiling about my finances!,joy,0.9641254544258118
+I'm terrified of this challenge!,fear,0.9922426342964172
+There's nothing special about this moment.,neutral,0.6586812734603882
+I never expected this challenge to happen!,surprise,0.9564703106880188
+this failure is making me livid!,anger,0.9847925901412964
+This this situation brings me so much happiness!,joy,0.9880963563919067
+My heart aches because of this surprise.,surprise,0.7754247188568115
+I'm thrilled beyond words about this song!,joy,0.9498364925384521
+This this song makes me so angry I could scream!,anger,0.987597644329071
+the future doesn't affect me much.,neutral,0.826040506362915
+I'm completely enamored with this movie!,joy,0.9510903358459473
+I'm head over heels for this food!,surprise,0.4002564251422882
+I'm flabbergasted by my friends!,surprise,0.8481562733650208
+I'm in the depths of despair because of this challenge.,fear,0.8539149761199951
+What an unexpected my friends!,surprise,0.8373258709907532
+this book doesn't affect me much.,neutral,0.4855607748031616
+I'm over the moon about my family!,surprise,0.36327165365219116
+My anxiety about this book is overwhelming.,fear,0.9925987720489502
+How dare they this place!,anger,0.9790200591087341
+I'm overwhelmed with sorrow about this discovery.,sadness,0.42338061332702637
+I noticed this discovery today.,surprise,0.6685721278190613
+I'm shaking with fear because of this conversation.,fear,0.9942451119422913
+my family is the love of my life!,joy,0.8539924621582031
+This this book makes me so angry I could scream!,anger,0.9881382584571838
+I'm boiling with rage because of this book.,anger,0.9914643168449402
+I never expected this achievement to happen!,surprise,0.9429901242256165
+this gift is the love of my life!,joy,0.7914459109306335
+I observed this movie without much reaction.,disgust,0.965086042881012
+This this song makes me so angry I could scream!,anger,0.987597644329071
+This my friends scares me to death!,fear,0.9707401394844055
+I'm thrilled beyond words about the past!,joy,0.9505148530006409
+I'm completely enamored with this decision!,joy,0.9253180027008057
+I'm paralyzed with fear about this opportunity.,fear,0.9882243871688843
+my job has me seeing red!,surprise,0.7661767601966858
+What a wonderful this realization we're experiencing!,joy,0.8819013833999634
+I'm head over heels for my job!,anger,0.5435160994529724
+I'm feeling so down about my finances...,sadness,0.9845874309539795
+my friends is just normal.,neutral,0.5674495697021484
+I'm enraged by these changes!,anger,0.9878843426704407
+My heart races whenever I think about this book.,fear,0.4228494465351105
+I'm feeling so down about this movie...,sadness,0.9831594228744507
+the future makes my heart flutter!,fear,0.7158617973327637
+Wow! I can't believe the future happened!,surprise,0.9783710241317749
+I'm flabbergasted by this movie!,surprise,0.925407886505127
+I'm enraged by this memory!,anger,0.9859685897827148
+I'm terrified of my job!,fear,0.9938528537750244
+the past left me speechless!,fear,0.7123480439186096
+What an unexpected this food!,surprise,0.9215459823608398
+This this situation has left me heartbroken.,sadness,0.986686110496521
+This this realization is quite ordinary.,surprise,0.7462224364280701
+I cherish the future more than words can say.,joy,0.8804387450218201
+The thought of my finances fills me with dread.,fear,0.9917451739311218
+the weather is my worst nightmare!,fear,0.5023379325866699
+my health took me completely by surprise!,surprise,0.9628723859786987
+What an unexpected this book!,surprise,0.9077352285385132
+My heart races whenever I think about my family.,fear,0.3022417724132538
+I feel absolutely delighted by my relationship.,joy,0.992792010307312
+I feel such deep love for the weather.,joy,0.9453349113464355
+The thought of my relationship fills me with dread.,fear,0.9918145537376404
+this decision is my worst nightmare!,disgust,0.49864545464515686
+My love for this food knows no bounds.,joy,0.9378967881202698
+this food happened as expected.,neutral,0.711708128452301
+this achievement took me completely by surprise!,surprise,0.9615349769592285
+I'm astonished by this song!,surprise,0.9774414896965027
+I'm boiling with rage because of this opportunity.,anger,0.9927178621292114
+This this failure scares me to death!,fear,0.9801400303840637
+This my finances is neither good nor bad.,joy,0.3482876121997833
+this situation makes my heart flutter!,fear,0.4457642436027527
+My jaw dropped when I saw this discovery!,surprise,0.9102246165275574
+How dare they this discovery!,anger,0.9795954823493958
+this realization happened as expected.,surprise,0.6621918678283691
+This my family scares me to death!,fear,0.982014000415802
+I feel absolutely delighted by my friends.,joy,0.9908556938171387
+My heart races whenever I think about this surprise.,surprise,0.9752991199493408
+My affection for this memory grows every day.,joy,0.623540461063385
+My affection for my relationship grows every day.,joy,0.6360825896263123
+I'm head over heels for this gift!,surprise,0.3422313630580902
+I'm indifferent about the future.,disgust,0.48055124282836914
+I'm flabbergasted by this discovery!,surprise,0.937150776386261
+I'm grieving over this memory.,sadness,0.9777249097824097
+My heart races whenever I think about this song.,surprise,0.4645983874797821
+This this movie makes me so angry I could scream!,anger,0.9881929755210876
+The thought of this book fills me with dread.,fear,0.9902660250663757
+This my friends is neither good nor bad.,disgust,0.8888435959815979
+this conversation happened as expected.,neutral,0.7111818790435791
+I'm completely shocked by my job!,surprise,0.9780322313308716
+I'm so happy about this surprise!,joy,0.8838369846343994
+I'm absolutely furious about this failure!,anger,0.9836376905441284
+this conversation has me seeing red!,surprise,0.7522830367088318
+I adore my job with all my heart!,joy,0.9824458360671997
+My jaw dropped when I saw this movie!,surprise,0.8956119418144226
+I can't stop crying about my relationship.,sadness,0.9623122811317444
+the news makes my heart flutter!,fear,0.5169411897659302
+this challenge is the love of my life!,joy,0.8047505021095276
+My heart is full of joy because of these changes.,joy,0.9891491532325745
+This these changes is neither good nor bad.,disgust,0.750845193862915
+Tears won't stop falling because of this conversation.,sadness,0.7048529982566833
+I can't sleep because I'm so scared of this situation.,fear,0.990213930606842
+I'm completely shocked by this discovery!,surprise,0.9776905179023743
+I'm thinking about this movie.,joy,0.6966248750686646
+Wow! I can't believe this memory happened!,surprise,0.9776479005813599
+This my relationship is neither good nor bad.,disgust,0.4199434816837311
+I'm flabbergasted by this food!,surprise,0.5335953831672668
+I'm thrilled beyond words about the past!,joy,0.9505148530006409
+this discovery is making me livid!,anger,0.9837204217910767
+My jaw dropped when I saw the weather!,surprise,0.8259392380714417
+This this place has left me heartbroken.,sadness,0.9844313263893127
+I'm over the moon about this place!,surprise,0.7556365132331848
+I'm over the moon about this failure!,disgust,0.3057557940483093
+this event is just normal.,neutral,0.901007890701294
+This this failure brings me so much happiness!,joy,0.9167260527610779
+I'm so happy about the weather!,joy,0.98215252161026
+this moment is just normal.,neutral,0.8454440832138062
+Wow! I can't believe the past happened!,surprise,0.9773241877555847
+This the future is completely unacceptable!,anger,0.7074503898620605
+This is the best day ever because of this decision!,joy,0.8644483089447021
+I feel such deep love for this memory.,joy,0.9341186881065369
+these changes is the love of my life!,surprise,0.49646180868148804
+my job took me completely by surprise!,surprise,0.9586091041564941
+I can't sleep because I'm so scared of this challenge.,fear,0.991233766078949
+My soul is filled with love because of this place.,joy,0.7848932147026062
+My jaw dropped when I saw this failure!,surprise,0.7169665098190308
+This this event came out of nowhere!,surprise,0.9223819375038147
+My soul is filled with love because of this book.,joy,0.824268102645874
+the future makes me feel ecstatic!,joy,0.9874388575553894
+I'm over the moon about this opportunity!,joy,0.6590602397918701
+the future doesn't affect me much.,neutral,0.826040506362915
+The thought of this food fills me with dread.,fear,0.9890025854110718
+My soul is filled with love because of this food.,joy,0.7682549953460693
+I'm enraged by this surprise!,anger,0.9645009636878967
+this decision happened as expected.,neutral,0.655677318572998
+I'm enraged by this memory!,anger,0.9859685897827148
+I'm completely shocked by this realization!,surprise,0.9771300554275513
+My anxiety about this place is overwhelming.,fear,0.9925589561462402
+I'm astonished by this surprise!,surprise,0.9795486927032471
+this achievement is my worst nightmare!,disgust,0.711073637008667
+I'm enraged by this surprise!,anger,0.9645009636878967
+I can't stop smiling about this moment!,joy,0.9678760766983032
+I'm thrilled beyond words about this opportunity!,joy,0.9628468751907349
+I'm overwhelmed with sorrow about this opportunity.,sadness,0.6407677531242371
+I'm head over heels for my friends!,joy,0.35224655270576477
+I'm thrilled beyond words about these changes!,joy,0.9507229328155518
+the past is making me livid!,anger,0.9838727116584778
+There's nothing special about this realization.,neutral,0.5310356616973877
+My heart races whenever I think about my relationship.,fear,0.5779098868370056
+this gift left me speechless!,surprise,0.7558174729347229
+Tears won't stop falling because of this surprise.,surprise,0.8088459968566895
+I adore my relationship with all my heart!,joy,0.9665976166725159
+This is the best day ever because of my friends!,joy,0.9247104525566101
+I'm shaking with fear because of this situation.,fear,0.9942650198936462
+I observed this song without much reaction.,disgust,0.8752188086509705
+I never expected my relationship to happen!,surprise,0.9037124514579773
+this situation makes my heart flutter!,fear,0.4457642436027527
+I'm grieving over my job.,sadness,0.9824375510215759
+The thought of this realization fills me with dread.,fear,0.9874987006187439
+I'm flabbergasted by this surprise!,surprise,0.9576088786125183
+I'm astonished by this surprise!,surprise,0.9795486927032471
+my friends is making me feel so lonely.,sadness,0.9892387390136719
+This my finances is neither good nor bad.,joy,0.3482876121997833
+My anxiety about this event is overwhelming.,fear,0.9918031096458435
+I'm completely shocked by the future!,surprise,0.9768848419189453
+I never expected the news to happen!,surprise,0.9425135254859924
+the weather is making me feel so lonely.,sadness,0.9873215556144714
+I feel such deep love for this book.,joy,0.9569947123527527
+I'm feeling so down about this realization...,sadness,0.9705920815467834
+This my friends is quite ordinary.,surprise,0.6066948175430298
+I observed this gift without much reaction.,disgust,0.8876827359199524
+I observed this achievement without much reaction.,disgust,0.6404076814651489
+I feel absolutely delighted by this place.,joy,0.990613579750061
+I observed this book without much reaction.,disgust,0.9468521475791931
+My heart races whenever I think about this opportunity.,fear,0.6955552101135254
+this realization makes me feel ecstatic!,joy,0.9849029779434204
+I can't stop crying about this failure.,sadness,0.9178915619850159
+This is the best day ever because of this place!,joy,0.8003528714179993
+my finances makes my heart flutter!,fear,0.4581415355205536
+this decision is my worst nightmare!,disgust,0.49864545464515686
+this decision is my worst nightmare!,disgust,0.49864545464515686
+I'm astonished by this food!,surprise,0.9739506840705872
+Tears won't stop falling because of the weather.,sadness,0.8911266326904297
+I'm indifferent about my relationship.,disgust,0.5025015473365784
+these changes has me seeing red!,surprise,0.822131872177124
+I'm completely enamored with my finances!,joy,0.44537410140037537
+I noticed this conversation today.,surprise,0.5463617444038391
+I'm absolutely furious about this opportunity!,anger,0.9832760095596313
+This this realization is neither good nor bad.,disgust,0.650974690914154
+This is the best day ever because of this surprise!,surprise,0.7737270593643188
+My heart is full of joy because of the weather.,joy,0.9888026118278503
+I'm completely enamored with the past!,joy,0.8517000079154968
+This this gift is completely unacceptable!,anger,0.6913625001907349
+This this achievement came out of nowhere!,surprise,0.9307271838188171
+I'm thinking about this event.,joy,0.4640371799468994
+My heart races whenever I think about this conversation.,surprise,0.4251629710197449
+I'm absolutely furious about this conversation!,anger,0.9832575917243958
+My heart is full of joy because of this book.,joy,0.9912503957748413
+this surprise is my worst nightmare!,fear,0.3760659992694855
+I adore my job with all my heart!,joy,0.9824458360671997
+I'm so happy about the past!,joy,0.9825311303138733
+My blood is boiling because of this realization!,anger,0.9927518367767334
+I cherish my friends more than words can say.,joy,0.8306697607040405
+I'm head over heels for the news!,surprise,0.34270527958869934
+I'm indifferent about this movie.,disgust,0.7249715924263
+This my relationship scares me to death!,fear,0.9778203368186951
+This these changes is quite ordinary.,surprise,0.451370507478714
+I can't stop smiling about this book!,joy,0.9747750759124756
+this conversation makes me feel ecstatic!,joy,0.9815835356712341
+I feel such deep love for this food.,joy,0.9400455355644226
+I'm head over heels for this moment!,anger,0.45259198546409607
+this event makes me feel ecstatic!,joy,0.9840521812438965
+I'm grieving over this memory.,sadness,0.9777249097824097
+This the past has left me heartbroken.,sadness,0.9850708246231079
+this event is the love of my life!,joy,0.6579935550689697
+I'm thrilled beyond words about the future!,joy,0.9616273641586304
+My heart aches because of these changes.,sadness,0.9311828017234802
+this realization is the love of my life!,joy,0.5447617769241333
+the news is making me feel so lonely.,sadness,0.9875825047492981
+I'm head over heels for my job!,anger,0.5435160994529724
+I'm indifferent about my family.,disgust,0.5367454886436462
+I'm shaking with fear because of the news.,fear,0.9942865967750549
+The thought of my health fills me with dread.,fear,0.9906743168830872

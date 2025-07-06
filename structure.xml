@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2023-08-28T14:30:00.000Z" agent="Mozilla/5.0" version="21.6.5" type="device">
+  <diagram name="Page-1" id="XrQ5Q5Q4jY5Q5Q4jY5Q5">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        
+        <!-- Title -->
+        <mxCell id="title" value="System Architecture: Emotion-Aware AI with Blockchain Verification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="325" y="20" width="200" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- Components -->
+        <mxCell id="textInput" value="Text Input" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4d4d4d;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="edgeProcessing" value="&lt;b&gt;Edge Processing&lt;/b&gt;&lt;br&gt;DistilRoBERTa Model&lt;br&gt;Text Preprocessing&lt;br&gt;Emotion Classification&lt;br&gt;Confidence Scoring" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5da5da;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="120" height="140" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="privacyLayer" value="&lt;b&gt;Privacy Layer&lt;/b&gt;&lt;br&gt;Data Anonymization&lt;br&gt;SHA-3 Hashing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60bd68;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="120" height="100" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="blockchain" value="&lt;b&gt;Blockchain&lt;/b&gt;&lt;br&gt;ERC-725 Identity&lt;br&gt;Smart Contracts&lt;br&gt;Emotion Ledger" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f17cb0;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="540" y="270" width="120" height="140" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="applications" value="&lt;b&gt;Applications&lt;/b&gt;&lt;br&gt;Mental Health&lt;br&gt;Customer Service&lt;br&gt;Adaptive Learning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b2912f;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="700" y="270" width="120" height="140" as="geometry" />
+        </mxCell>
+        
+        <!-- Performance Box -->
+        <mxCell id="performance" value="&lt;b&gt;Performance&lt;/b&gt;&lt;br&gt;94.2% Accuracy&lt;br&gt;1,200 sent/sec&lt;br&gt;21K+ Corpus&lt;br&gt;7 Emotions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b276b2;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="120" height="100" as="geometry" />
+        </mxCell>
+        
+        <!-- Arrows -->
+        <mxCell id="arrow1" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;endArrow=classic;endFill=1;" edge="1" parent="1" source="textInput" target="edgeProcessing">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="340" as="sourcePoint" />
+            <mxPoint x="220" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="arrow2" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;endArrow=classic;endFill=1;" edge="1" parent="1" source="edgeProcessing" target="privacyLayer">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="340" as="sourcePoint" />
+            <mxPoint x="380" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="arrow3" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;endArrow=classic;endFill=1;" edge="1" parent="1" source="privacyLayer" target="blockchain">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="340" as="sourcePoint" />
+            <mxPoint x="540" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="arrow4" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;exitX=1;exitY=0.5;endArrow=classic;endFill=1;" edge="1" parent="1" source="blockchain" target="applications">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="340" as="sourcePoint" />
+            <mxPoint x="700" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- Legend -->
+        <mxCell id="legend" value="&lt;b&gt;Legend&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="legend1" value="NLP Processing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5da5da;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="80" height="25" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="legend2" value="Security Layer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60bd68;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="140" y="530" width="80" height="25" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="legend3" value="Blockchain" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f17cb0;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="230" y="530" width="80" height="25" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="legend4" value="Applications" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b2912f;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="320" y="530" width="80" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

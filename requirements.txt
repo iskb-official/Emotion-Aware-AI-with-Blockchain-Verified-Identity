@@ -1,0 +1,8 @@
+transformers
+torch
+pandas
+matplotlib
+seaborn
+scikit-learn
+faker
+web3
