@@ -1,4 +1,4 @@
-# Emotion-Aware AI with Blockchain-Verified Identity
+# Emotion-Aware-AI-with-Blockchain-Verified-Identity
 
 This project presents a privacy-preserving, blockchain-integrated system for real-time emotion classification using offline NLP models. Built using DistilRoBERTa and anchored by Ethereum-based ERC-725 smart contracts, it ensures verifiable, decentralized identity and secure emotional profiling.
 
@@ -27,8 +27,8 @@ emotion-aware-ai-blockchain-id/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/emotion-aware-ai-blockchain-id.git
-cd emotion-aware-ai-blockchain-id
+git clone https://github.com/iskb-official/Emotion-Aware-AI-with-Blockchain-Verified-Identity.git
+cd Emotion-Aware-AI-with-Blockchain-Verified-Identity
 pip install -r requirements.txt
 ```
 
